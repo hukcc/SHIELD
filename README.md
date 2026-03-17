@@ -31,7 +31,7 @@ SHIELD consistently outperforms existing methods across **3 LVLM families** and 
 <tr>
 <td>
 
-**CHAIR** (↓ lower is better)
+**CHAIR — LLaVA-1.5 7B** (↓ lower is better)
 
 | Method | C_S | C_I |
 |:---|:---:|:---:|
@@ -43,7 +43,7 @@ SHIELD consistently outperforms existing methods across **3 LVLM families** and 
 </td>
 <td>
 
-**POPE Avg** (↑ higher is better)
+**POPE Avg — LLaVA-1.5 7B** (↑ higher is better)
 
 | Method | Acc | F1 |
 |:---|:---:|:---:|
@@ -69,7 +69,7 @@ SHIELD consistently outperforms existing methods across **3 LVLM families** and 
 </td>
 <td>
 
-**AMBER Score** (↑ higher is better)
+**AMBER Score — LLaVA-1.5 7B** (↑ higher is better)
 
 | Method | Score | CHAIR↓ | Hal.↓ |
 |:---|:---:|:---:|:---:|

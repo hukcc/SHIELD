@@ -269,6 +269,10 @@
             text-align: left;
         }
 
+        .table-wide td:nth-child(2), .table-wide th:nth-child(2) {
+            text-align: left;
+        }
+
         tr.ours {
             background: #eff6ff;
             font-weight: 600;
@@ -530,7 +534,7 @@
         <div class="results-grid" style="margin-top: 24px;">
             <div class="result-block" style="grid-column: 1 / -1;">
                 <h3>POPE COCO — All Splits, All LVLMs</h3>
-                <table>
+                <table class="table-wide">
                     <thead>
                         <tr><th rowspan="2">LVLM</th><th rowspan="2">Method</th><th colspan="2">Random</th><th colspan="2">Popular</th><th colspan="2">Adversarial</th></tr>
                         <tr><th>Acc</th><th>F1</th><th>Acc</th><th>F1</th><th>Acc</th><th>F1</th></tr>
@@ -601,17 +605,17 @@
         <p style="color: var(--text-secondary); margin-bottom: 20px;">
             Effect of each SHIELD module on attention distribution and generated captions. Each module progressively corrects a different source of hallucination.
         </p>
-        <div class="results-grid" style="grid-template-columns: repeat(3, 1fr);">
-            <div class="teaser-figure">
-                <img src="static/ablation-vis-st-bias.png" alt="Ablation: statistical bias">
+        <div class="results-grid" style="grid-template-columns: repeat(3, 1fr); align-items: start;">
+            <div class="teaser-figure" style="aspect-ratio: 1 / 1; overflow: hidden; display: flex; flex-direction: column;">
+                <img src="static/ablation-vis-st-bias.png" alt="Ablation: statistical bias" style="width: 100%; height: 100%; object-fit: contain;">
                 <p class="caption">Mitigating statistical bias</p>
             </div>
-            <div class="teaser-figure">
-                <img src="static/ablation-vis-in-bias.png" alt="Ablation: inherent bias">
+            <div class="teaser-figure" style="aspect-ratio: 1 / 1; overflow: hidden; display: flex; flex-direction: column;">
+                <img src="static/ablation-vis-in-bias.png" alt="Ablation: inherent bias" style="width: 100%; height: 100%; object-fit: contain;">
                 <p class="caption">Reducing inherent bias</p>
             </div>
-            <div class="teaser-figure">
-                <img src="static/ablation-vis-vul.png" alt="Ablation: vulnerability">
+            <div class="teaser-figure" style="aspect-ratio: 1 / 1; overflow: hidden; display: flex; flex-direction: column;">
+                <img src="static/ablation-vis-vul.png" alt="Ablation: vulnerability" style="width: 100%; height: 100%; object-fit: contain;">
                 <p class="caption">Addressing vulnerability</p>
             </div>
         </div>
@@ -669,15 +673,27 @@ output_ids = model.<span class="func">generate</span>(input_ids, **shield_kw, do
         <h2><span class="section-icon"><i class="fa-solid fa-quote-left"></i></span>BibTeX</h2>
         <p style="margin-bottom: 16px;">If you find this work useful, please cite our paper:</p>
 
-        <div class="bibtex-block">
-            <button class="copy-btn" onclick="copyBibtex()"><i class="fa-regular fa-copy"></i> Copy</button>
-<pre id="bibtex-text">@inproceedings{
+        <p style="margin-bottom: 8px; font-weight: 500;">ICLR version:</p>
+        <div class="bibtex-block" style="margin-bottom: 20px;">
+            <button class="copy-btn" onclick="copyBibtex('bibtex-iclr')"><i class="fa-regular fa-copy"></i> Copy</button>
+<pre id="bibtex-iclr">@inproceedings{
 huang2026shield,
 title={{SHIELD}: Suppressing Hallucinations In {LVLM} Encoders via Bias and Vulnerability Defense},
 author={Yiyang Huang and Liang Shi and Yitian Zhang and Yi Xu and Yun Fu},
 booktitle={The Fourteenth International Conference on Learning Representations},
 year={2026},
 url={https://openreview.net/forum?id=yk7FFLoNcP}
+}</pre>
+        </div>
+
+        <p style="margin-bottom: 8px; font-weight: 500;">arXiv version:</p>
+        <div class="bibtex-block">
+            <button class="copy-btn" onclick="copyBibtex('bibtex-arxiv')"><i class="fa-regular fa-copy"></i> Copy</button>
+<pre id="bibtex-arxiv">@article{huang2025shield,
+  title={SHIELD: Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense},
+  author={Huang, Yiyang and Shi, Liang and Zhang, Yitian and Xu, Yi and Fu, Yun},
+  journal={arXiv preprint arXiv:2510.16596},
+  year={2025}
 }</pre>
         </div>
     </div>
@@ -690,10 +706,10 @@ url={https://openreview.net/forum?id=yk7FFLoNcP}
 </footer>
 
 <script>
-function copyBibtex() {
-    const text = document.getElementById('bibtex-text').textContent;
+function copyBibtex(id) {
+    const text = document.getElementById(id).textContent;
+    const btn = document.getElementById(id).parentElement.querySelector('.copy-btn');
     navigator.clipboard.writeText(text).then(() => {
-        const btn = document.querySelector('.copy-btn');
         btn.innerHTML = '<i class="fa-solid fa-check"></i> Copied!';
         setTimeout(() => {
             btn.innerHTML = '<i class="fa-regular fa-copy"></i> Copy';
