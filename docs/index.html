@@ -428,15 +428,48 @@
     </div>
 </section>
 
+<!-- Motivation -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-lightbulb"></i></span>Motivation: Hallucinations Stem from Visual Encoders</h2>
+
+        <p class="abstract-text" style="margin-bottom: 28px;">
+            Accurate visual feature extraction is crucial for LVLMs to generate reliable outputs. However, we find that <strong>bias and vulnerability in visual encoders</strong> distort features and intensify object hallucinations. Most LVLMs adopt visual encoders derived from pretrained CLIP models, which are influenced by the imbalanced distribution of visual concepts in pretraining data. This gives rise to three key issues:
+        </p>
+
+        <div class="teaser-figure" style="margin-bottom: 32px;">
+            <img src="static/teasor.png" alt="Three key issues in LVLM visual encoders">
+            <p class="caption">We identify three key issues in LVLM visual encoders that cause hallucinations: statistical bias, inherent bias, and vulnerability.</p>
+        </div>
+
+        <div class="method-cards" style="grid-template-columns: repeat(3, 1fr);">
+            <div class="method-card">
+                <h3>Statistical Bias</h3>
+                <p>The visual encoder over-relies on frequent visual patterns in pretraining data, causing overemphasis on the corresponding tokens with disproportionately high activation values. This distorts fine-grained perception by directing attention to overweighted tokens, often resulting in hallucinations.</p>
+                <img src="static/prob-st-bias.png" alt="Statistical bias analysis" style="width:100%; margin-top:12px; border-radius:8px;">
+            </div>
+            <div class="method-card">
+                <h3>Inherent Bias</h3>
+                <p>The visual encoder is overdependent on dominant objects in pretraining data, leading it to generate erroneous representations regardless of input — even when the input is meaningless random noise. Dominant objects such as cars, chairs, and tables are frequently hallucinated.</p>
+                <img src="static/prob-in-bias.png" alt="Inherent bias analysis" style="width:100%; margin-top:12px; border-radius:8px;">
+            </div>
+            <div class="method-card">
+                <h3>Vulnerability</h3>
+                <p>Visual encoders have limited robustness to noise and subtle perturbations, making them susceptible to constructing inaccurate visual representations. Even a few attack steps cause sharp performance drops, demonstrating that minor perturbations can exploit this weakness.</p>
+                <img src="static/prob-vul.png" alt="Vulnerability analysis" style="width:100%; margin-top:12px; border-radius:8px;">
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Method -->
 <section>
     <div class="container">
         <h2><span class="section-icon"><i class="fa-solid fa-diagram-project"></i></span>Method</h2>
 
-        <div class="teaser-figure">
-            <img src="static/teasor.png" alt="Three key issues: statistical bias, inherent bias, and vulnerability in visual encoders">
-            <p class="caption">We identify three key issues in LVLM visual encoders that cause hallucinations: statistical bias, inherent bias, and vulnerability.</p>
-        </div>
+        <p class="abstract-text" style="margin-bottom: 28px;">
+            Building on these observations, we propose <strong>SHIELD</strong>, a training-free method to mitigate object hallucinations by addressing statistical bias, inherent bias, and vulnerability in visual encoders. SHIELD integrates three strategies that operate directly on visual tokens and decoding logits — no model retraining required.
+        </p>
 
         <div class="method-figure">
             <img src="static/pipeline.png" alt="SHIELD Framework Pipeline">
@@ -448,21 +481,21 @@
                 <div style="flex: 0 0 55%;"><img src="static/module-st-bias.png" alt="Token Re-weighting module" style="width:100%; border-radius:8px;"></div>
                 <div style="flex: 1;">
                     <h3>Token Re-weighting</h3>
-                    <p>Re-weight visual tokens using their similarity with naive caption tokens, redistributing attention to reduce statistical bias toward high-frequency patterns.</p>
+                    <p>Generates a naive caption, encodes it with the CLIP text encoder, and computes a similarity matrix with visual tokens. The resulting weights redistribute attention across tokens relevant to ground-truth objects, alleviating statistical bias from overemphasized tokens.</p>
                 </div>
             </div>
             <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
                 <div style="flex: 0 0 55%;"><img src="static/module-in-bias.png" alt="Token Subtraction module" style="width:100%; border-radius:8px;"></div>
                 <div style="flex: 1;">
                     <h3>Token Subtraction</h3>
-                    <p>Estimate dominant-object false representations using K random noise inputs, then subtract them from visual tokens to reduce inherent bias.</p>
+                    <p>Passes K random noise inputs through the visual encoder and averages the resulting tokens to estimate erroneous representations of dominant objects. These estimates are subtracted from the visual tokens, removing inherent bias at the feature level.</p>
                 </div>
             </div>
             <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
                 <div style="flex: 0 0 55%;"><img src="static/module-vulnerability.png" alt="Contrastive Decoding module" style="width:100%; border-radius:8px;"></div>
                 <div style="flex: 1;">
                     <h3>Contrastive Decoding</h3>
-                    <p>Apply adversarial perturbation to expose hallucination-prone objects, then contrast natural vs. perturbed outputs to suppress vulnerable predictions.</p>
+                    <p>Constructs an adversarial attack tensor by minimizing cosine similarity between perturbed image features and caption features. At each decoding step, contrasts bias-reduced logits with adversarial logits to suppress hallucination-prone outputs.</p>
                 </div>
             </div>
         </div>
