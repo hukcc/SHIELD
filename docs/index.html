@@ -433,12 +433,12 @@
         <h2><span class="section-icon"><i class="fa-solid fa-diagram-project"></i></span>Method</h2>
 
         <div class="teaser-figure">
-            <img src="../figs/teasor.png" alt="Three key issues: statistical bias, inherent bias, and vulnerability in visual encoders">
+            <img src="static/teasor.png" alt="Three key issues: statistical bias, inherent bias, and vulnerability in visual encoders">
             <p class="caption">We identify three key issues in LVLM visual encoders that cause hallucinations: statistical bias, inherent bias, and vulnerability.</p>
         </div>
 
         <div class="method-figure">
-            <img src="../figs/pipeline.png" alt="SHIELD Framework Pipeline">
+            <img src="static/pipeline.png" alt="SHIELD Framework Pipeline">
             <p class="caption">Overview of the SHIELD framework. Our training-free approach addresses all three encoder issues via token re-weighting, token subtraction, and contrastive decoding.</p>
         </div>
 
@@ -447,16 +447,19 @@
                 <div class="card-icon">&#9878;</div>
                 <h3>Token Re-weighting</h3>
                 <p>Re-weight visual tokens using their similarity with naive caption tokens, redistributing attention to reduce statistical bias toward high-frequency patterns.</p>
+                <img src="static/module-st-bias.png" alt="Token Re-weighting module" style="width:100%; margin-top:12px; border-radius:8px;">
             </div>
             <div class="method-card">
                 <div class="card-icon">&#8854;</div>
                 <h3>Token Subtraction</h3>
                 <p>Estimate dominant-object false representations using K random noise inputs, then subtract them from visual tokens to reduce inherent bias.</p>
+                <img src="static/module-in-bias.png" alt="Token Subtraction module" style="width:100%; margin-top:12px; border-radius:8px;">
             </div>
             <div class="method-card">
                 <div class="card-icon">&#9760;</div>
                 <h3>Contrastive Decoding</h3>
                 <p>Apply adversarial perturbation to expose hallucination-prone objects, then contrast natural vs. perturbed outputs to suppress vulnerable predictions.</p>
+                <img src="static/module-vulnerability.png" alt="Contrastive Decoding module" style="width:100%; margin-top:12px; border-radius:8px;">
             </div>
         </div>
     </div>
@@ -574,6 +577,11 @@
             </div>
         </div>
 
+        <div class="method-figure" style="margin-top: 32px;">
+            <img src="static/radar.png" alt="MME Full radar chart" style="max-width: 500px;">
+            <p class="caption">MME Full benchmark radar chart. SHIELD improves perception across all sub-categories while maintaining cognition performance.</p>
+        </div>
+
         <div class="highlight-note">
             <strong>Key takeaway:</strong> SHIELD achieves the best hallucination suppression while maintaining strong general-purpose performance (MME Full: 1810.8). It is also 3.3&times; faster than OPERA with less than half the memory overhead.
         </div>
@@ -584,12 +592,39 @@
 <section>
     <div class="container">
         <h2><span class="section-icon"><i class="fa-solid fa-images"></i></span>Qualitative Examples</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 24px;">
-            Visual comparison of object hallucination. Vanilla LLaVA-1.5 hallucinates non-existent objects (red), while SHIELD correctly identifies only the objects present in the image (green).
+
+        <h3 style="margin-top: 16px; margin-bottom: 12px;">Ablation Visualization</h3>
+        <p style="color: var(--text-secondary); margin-bottom: 20px;">
+            Effect of each SHIELD module on attention distribution and generated captions. Each module progressively corrects a different source of hallucination.
         </p>
-        <div class="teaser-figure">
-            <img src="../figs/teasor.png" alt="Qualitative comparison showing hallucination reduction">
-            <p class="caption">SHIELD traces hallucinations to three encoder-level issues and mitigates each with a dedicated, training-free strategy.</p>
+        <div class="results-grid" style="grid-template-columns: repeat(3, 1fr);">
+            <div class="teaser-figure">
+                <img src="static/ablation-vis-st-bias.png" alt="Ablation: statistical bias">
+                <p class="caption">Mitigating statistical bias</p>
+            </div>
+            <div class="teaser-figure">
+                <img src="static/ablation-vis-in-bias.png" alt="Ablation: inherent bias">
+                <p class="caption">Reducing inherent bias</p>
+            </div>
+            <div class="teaser-figure">
+                <img src="static/ablation-vis-vul.png" alt="Ablation: vulnerability">
+                <p class="caption">Addressing vulnerability</p>
+            </div>
+        </div>
+
+        <h3 style="margin-top: 40px; margin-bottom: 12px;">Case Studies</h3>
+        <p style="color: var(--text-secondary); margin-bottom: 20px;">
+            Detailed comparisons between Vanilla LLaVA-1.5 and SHIELD. Hallucinated objects are highlighted in <span style="color:#ef4444; font-weight:600;">red</span>, correct descriptions in <span style="color:#22c55e; font-weight:600;">green</span>.
+        </p>
+        <div class="results-grid">
+            <div class="teaser-figure">
+                <img src="static/case1.png" alt="Case study 1">
+                <p class="caption">Case study 1</p>
+            </div>
+            <div class="teaser-figure">
+                <img src="static/case2.png" alt="Case study 2">
+                <p class="caption">Case study 2</p>
+            </div>
         </div>
     </div>
 </section>

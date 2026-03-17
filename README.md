@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+    <img src="figs/teasor.png" width="90%">
+</p>
 
 # SHIELD
 
@@ -11,8 +13,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
 [Paper](https://arxiv.org/abs/2510.16596) | [OpenReview](https://openreview.net/forum?id=yk7FFLoNcP) | [Project Page](https://hukcc.github.io/SHIELD/) | [Code](#quick-start)
-
-</div>
 
 <p align="center">
     <img src="figs/pipeline.png" width="90%">
