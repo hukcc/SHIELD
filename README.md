@@ -2,11 +2,9 @@
     <img src="figs/teasor.png" width="90%">
 </p>
 
-# SHIELD
+# SHIELD: Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense
 
-### Training-Free Hallucination Suppression for Vision-Language Models
-
-**First to trace LVLM hallucinations to visual encoders — fixes statistical bias, inherent bias & vulnerability without any fine-tuning.**
+**First to trace LVLM hallucinations to visual encoders — a training-free framework that fixes statistical bias, inherent bias & vulnerability without any fine-tuning.**
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue.svg)](https://openreview.net/forum?id=yk7FFLoNcP)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16596-b31b1b.svg)](https://arxiv.org/abs/2510.16596)
