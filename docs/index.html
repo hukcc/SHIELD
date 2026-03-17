@@ -442,24 +442,30 @@
             <p class="caption">Overview of the SHIELD framework. Our training-free approach addresses all three encoder issues via token re-weighting, token subtraction, and contrastive decoding.</p>
         </div>
 
-        <div class="method-cards">
-            <div class="method-card">
-                <div class="card-icon">&#9878;</div>
-                <h3>Token Re-weighting</h3>
-                <p>Re-weight visual tokens using their similarity with naive caption tokens, redistributing attention to reduce statistical bias toward high-frequency patterns.</p>
-                <img src="static/module-st-bias.png" alt="Token Re-weighting module" style="width:100%; margin-top:12px; border-radius:8px;">
+        <div class="method-cards" style="grid-template-columns: 1fr; max-width: 100%;">
+            <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
+                <div style="flex: 0 0 55%;"><img src="static/module-st-bias.png" alt="Token Re-weighting module" style="width:100%; border-radius:8px;"></div>
+                <div style="flex: 1;">
+                    <div class="card-icon">&#9878;</div>
+                    <h3>Token Re-weighting</h3>
+                    <p>Re-weight visual tokens using their similarity with naive caption tokens, redistributing attention to reduce statistical bias toward high-frequency patterns.</p>
+                </div>
             </div>
-            <div class="method-card">
-                <div class="card-icon">&#8854;</div>
-                <h3>Token Subtraction</h3>
-                <p>Estimate dominant-object false representations using K random noise inputs, then subtract them from visual tokens to reduce inherent bias.</p>
-                <img src="static/module-in-bias.png" alt="Token Subtraction module" style="width:100%; margin-top:12px; border-radius:8px;">
+            <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
+                <div style="flex: 0 0 55%;"><img src="static/module-in-bias.png" alt="Token Subtraction module" style="width:100%; border-radius:8px;"></div>
+                <div style="flex: 1;">
+                    <div class="card-icon">&#8854;</div>
+                    <h3>Token Subtraction</h3>
+                    <p>Estimate dominant-object false representations using K random noise inputs, then subtract them from visual tokens to reduce inherent bias.</p>
+                </div>
             </div>
-            <div class="method-card">
-                <div class="card-icon">&#9760;</div>
-                <h3>Contrastive Decoding</h3>
-                <p>Apply adversarial perturbation to expose hallucination-prone objects, then contrast natural vs. perturbed outputs to suppress vulnerable predictions.</p>
-                <img src="static/module-vulnerability.png" alt="Contrastive Decoding module" style="width:100%; margin-top:12px; border-radius:8px;">
+            <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
+                <div style="flex: 0 0 55%;"><img src="static/module-vulnerability.png" alt="Contrastive Decoding module" style="width:100%; border-radius:8px;"></div>
+                <div style="flex: 1;">
+                    <div class="card-icon">&#9760;</div>
+                    <h3>Contrastive Decoding</h3>
+                    <p>Apply adversarial perturbation to expose hallucination-prone objects, then contrast natural vs. perturbed outputs to suppress vulnerable predictions.</p>
+                </div>
             </div>
         </div>
     </div>
@@ -616,15 +622,13 @@
         <p style="color: var(--text-secondary); margin-bottom: 20px;">
             Detailed comparisons between Vanilla LLaVA-1.5 and SHIELD. Hallucinated objects are highlighted in <span style="color:#ef4444; font-weight:600;">red</span>, correct descriptions in <span style="color:#22c55e; font-weight:600;">green</span>.
         </p>
-        <div class="results-grid">
-            <div class="teaser-figure">
-                <img src="static/case1.png" alt="Case study 1">
-                <p class="caption">Case study 1</p>
-            </div>
-            <div class="teaser-figure">
-                <img src="static/case2.png" alt="Case study 2">
-                <p class="caption">Case study 2</p>
-            </div>
+        <div class="teaser-figure" style="margin-bottom: 24px;">
+            <img src="static/case1.png" alt="Case study 1">
+            <p class="caption">Case study 1</p>
+        </div>
+        <div class="teaser-figure">
+            <img src="static/case2.png" alt="Case study 2">
+            <p class="caption">Case study 2</p>
         </div>
     </div>
 </section>
