@@ -1,0 +1,60 @@
+{"question_id": 1, "image": "color/000000006723.jpg", "text": "Is there a red brick building in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 2, "image": "color/000000006723.jpg", "text": "Is there a yellow brick building in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 3, "image": "color/000000008277.jpg", "text": "Is there a white plate in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 4, "image": "color/000000008277.jpg", "text": "Is there a yellow plate in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 5, "image": "color/000000012120.jpg", "text": "Is there a blue court in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 6, "image": "color/000000012120.jpg", "text": "Is there a purple court in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 7, "image": "color/000000014831.jpg", "text": "Is there a brown and white animal in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 8, "image": "color/000000014831.jpg", "text": "Is there a green and red animal in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 9, "image": "color/000000028993.jpg", "text": "Are there yellow poles in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 10, "image": "color/000000028993.jpg", "text": "Are there blue poles in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 11, "image": "color/000000029393.jpg", "text": "Is there a brown dog in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 12, "image": "color/000000029393.jpg", "text": "Is there a black dog in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 13, "image": "color/000000035770.jpg", "text": "Is there a black and white toilet in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 14, "image": "color/000000035770.jpg", "text": "Is there a red and white toilet in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 15, "image": "color/000000038118.jpg", "text": "Is there a red coat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 16, "image": "color/000000038118.jpg", "text": "Is there a yellow coat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 17, "image": "color/000000047112.jpg", "text": "Is there a white plate in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 18, "image": "color/000000047112.jpg", "text": "Is there a yellow plate in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 19, "image": "color/000000047121.jpg", "text": "Is there a black cat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 20, "image": "color/000000047121.jpg", "text": "Is there a brown cat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 21, "image": "color/000000053529.jpg", "text": "Is there a green hat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 22, "image": "color/000000053529.jpg", "text": "Is there a red hat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 23, "image": "color/000000053994.jpg", "text": "Is there a gray wall in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 24, "image": "color/000000053994.jpg", "text": "Is there a red wall in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 25, "image": "color/000000055072.jpg", "text": "Is there a brown giraffe in the image?  Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 26, "image": "color/000000055072.jpg", "text": "Is there a black giraffe in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 27, "image": "color/000000057597.jpg", "text": "Are there any red shoes in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 28, "image": "color/000000057597.jpg", "text": "Are there any yellow shoes in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 29, "image": "color/000000061658.jpg", "text": "Are there a white dish in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 30, "image": "color/000000061658.jpg", "text": "Are there a green dish in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 31, "image": "color/000000338560.jpg", "text": "Is there a blue and yellow fire hydrant in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 32, "image": "color/000000338560.jpg", "text": "Is there a blue and orange fire hydrant in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 33, "image": "color/000000370208.jpg", "text": "Is there a red bicycle with white handlebars in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 34, "image": "color/000000370208.jpg", "text": "Is there a red bicycle with black handlebars in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 35, "image": "color/000000377723.jpg", "text": "Is there a blue bus in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 36, "image": "color/000000377723.jpg", "text": "Is there a orange bus in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 37, "image": "color/000000405205.jpg", "text": "Is there a white bus in the image?  Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 38, "image": "color/000000405205.jpg", "text": "Is there a red bus in the image?  Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 39, "image": "color/000000410612.jpg", "text": "Is there a red boat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 40, "image": "color/000000410612.jpg", "text": "Is there a gray boat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 41, "image": "color/000000427034.jpg", "text": "Is there a brown and black dog in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 42, "image": "color/000000427034.jpg", "text": "Is there a brown and white dog in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 43, "image": "color/000000442456.jpg", "text": "Is there a man wearing a red shirt in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 44, "image": "color/000000442456.jpg", "text": "Is there a man wearing a white shirt in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 45, "image": "color/000000492362.jpg", "text": "Is there a skateboard with red wheels in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 46, "image": "color/000000492362.jpg", "text": "Is there a skateboard with black wheels in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 47, "image": "color/000000492992.jpg", "text": "Is there a white bird in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 48, "image": "color/000000492992.jpg", "text": "Is there a yellow bird in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 49, "image": "color/000000512929.jpg", "text": "Are there any green beans in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 50, "image": "color/000000512929.jpg", "text": "Are there any orange beans in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 51, "image": "color/000000530457.jpg", "text": "Are there any red flowers in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 52, "image": "color/000000530457.jpg", "text": "Are there any green flowers in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 53, "image": "color/000000532761.jpg", "text": "Is there a living room painted yellow in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 54, "image": "color/000000532761.jpg", "text": "Is there a living room painted black in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 55, "image": "color/000000534041.jpg", "text": "Is there a purple bottle in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 56, "image": "color/000000534041.jpg", "text": "Is there a white bottle in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 57, "image": "color/000000563758.jpg", "text": "Is there a red scarf in the image?  Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 58, "image": "color/000000563758.jpg", "text": "Is there a brown scarf in the image?  Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 59, "image": "color/000000564280.jpg", "text": "Is there a red couch in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 60, "image": "color/000000564280.jpg", "text": "Is there a black couch in the image? Please answer yes or no.", "label": "no", "setting": "color"}

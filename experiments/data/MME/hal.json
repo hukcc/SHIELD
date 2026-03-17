@@ -1,0 +1,240 @@
+{"question_id": 1, "image": "existence/000000006040.jpg", "text": "Is there a train in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 2, "image": "existence/000000006040.jpg", "text": "Is there a bed in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 3, "image": "existence/000000006471.jpg", "text": "Is there a baseball bat in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 4, "image": "existence/000000006471.jpg", "text": "Is there a giraffe in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 5, "image": "existence/000000007108.jpg", "text": "Is there a elephant in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 6, "image": "existence/000000007108.jpg", "text": "Is there a hair drier in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 7, "image": "existence/000000007816.jpg", "text": "Is there a motorcycle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 8, "image": "existence/000000007816.jpg", "text": "Is there a airplane in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 9, "image": "existence/000000007977.jpg", "text": "Is there a skateboard in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 10, "image": "existence/000000007977.jpg", "text": "Is there a spoon in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 11, "image": "existence/000000008844.jpg", "text": "Is there a person in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 12, "image": "existence/000000008844.jpg", "text": "Is there a sink in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 13, "image": "existence/000000009590.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 14, "image": "existence/000000009590.jpg", "text": "Is there a scissors in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 15, "image": "existence/000000010363.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 16, "image": "existence/000000010363.jpg", "text": "Is there a apple in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 17, "image": "existence/000000011197.jpg", "text": "Is there a car in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 18, "image": "existence/000000011197.jpg", "text": "Is there a fork in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 19, "image": "existence/000000015254.jpg", "text": "Is there a spoon in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 20, "image": "existence/000000015254.jpg", "text": "Is there a donut in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 21, "image": "existence/000000015517.jpg", "text": "Is there a bus in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 22, "image": "existence/000000015517.jpg", "text": "Is there a cow in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 23, "image": "existence/000000015746.jpg", "text": "Is there a fire hydrant in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 24, "image": "existence/000000015746.jpg", "text": "Is there a person in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 25, "image": "existence/000000037751.jpg", "text": "Is there a backpack in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 26, "image": "existence/000000037751.jpg", "text": "Is there a microwave in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 27, "image": "existence/000000050145.jpg", "text": "Is there a bicycle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 28, "image": "existence/000000050145.jpg", "text": "Is there a apple in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 29, "image": "existence/000000061418.jpg", "text": "Is there a chair in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 30, "image": "existence/000000061418.jpg", "text": "Is there a airplane in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 31, "image": "existence/000000417779.jpg", "text": "Is there a car in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 32, "image": "existence/000000417779.jpg", "text": "Is there a kite in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 33, "image": "existence/000000424521.jpg", "text": "Is there a skateboard in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 34, "image": "existence/000000424521.jpg", "text": "Is there a banana in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 35, "image": "existence/000000438304.jpg", "text": "Is there a sports ball in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 36, "image": "existence/000000438304.jpg", "text": "Is there a horse in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 37, "image": "existence/000000494427.jpg", "text": "Is there a laptop in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 38, "image": "existence/000000494427.jpg", "text": "Is there a potted plant in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 39, "image": "existence/000000495448.jpg", "text": "Is there a cake in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 40, "image": "existence/000000495448.jpg", "text": "Is there a tie in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 41, "image": "existence/000000498463.jpg", "text": "Is there a refrigerator in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 42, "image": "existence/000000498463.jpg", "text": "Is there a donut in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 43, "image": "existence/000000519039.jpg", "text": "Is there a truck in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 44, "image": "existence/000000519039.jpg", "text": "Is there a book in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 45, "image": "existence/000000523241.jpg", "text": "Is there a car in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 46, "image": "existence/000000523241.jpg", "text": "Is there a cell phone in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 47, "image": "existence/000000530162.jpg", "text": "Is there a umbrella in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 48, "image": "existence/000000530162.jpg", "text": "Is there a horse in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 49, "image": "existence/000000537812.jpg", "text": "Is there a chair in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 50, "image": "existence/000000537812.jpg", "text": "Is there a baseball bat in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 51, "image": "existence/000000541952.jpg", "text": "Is there a clock in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 52, "image": "existence/000000541952.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 53, "image": "existence/000000546626.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 54, "image": "existence/000000546626.jpg", "text": "Is there a mouse in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 55, "image": "existence/000000556000.jpg", "text": "Is there a chair in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 56, "image": "existence/000000556000.jpg", "text": "Is there a dog in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 57, "image": "existence/000000557258.jpg", "text": "Is there a toilet in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 58, "image": "existence/000000557258.jpg", "text": "Is there a pizza in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 59, "image": "existence/000000572956.jpg", "text": "Is there a motorcycle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 60, "image": "existence/000000572956.jpg", "text": "Is there a bus in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 1, "image": "count/000000006040.jpg", "text": "Is there a train in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 2, "image": "count/000000006040.jpg", "text": "Are there a total of two trains in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 3, "image": "count/000000044279.jpg", "text": "Is there a total of two people in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 4, "image": "count/000000044279.jpg", "text": "Is there only one people in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 5, "image": "count/000000067213.jpg", "text": "Is there only one dog in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 6, "image": "count/000000067213.jpg", "text": "Is there two dogs in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 7, "image": "count/000000071226.jpg", "text": "Is there a total of two dogs in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 8, "image": "count/000000071226.jpg", "text": "Is there only one dogs in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 9, "image": "count/000000097994.jpg", "text": "Are there three laptops in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 10, "image": "count/000000097994.jpg", "text": "Are there four laptops in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 11, "image": "count/000000195918.jpg", "text": "Is there a total of two display devices in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 12, "image": "count/000000195918.jpg", "text": "Is there only one display device in the image?  Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 13, "image": "count/000000236721.jpg", "text": "Are there two bananas in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 14, "image": "count/000000236721.jpg", "text": "Are there three bananas in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 15, "image": "count/000000261712.jpg", "text": "Are there two giraffes in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 16, "image": "count/000000261712.jpg", "text": "Are there three giraffes in this picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 17, "image": "count/000000274066.jpg", "text": "Are there four people appear in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 18, "image": "count/000000274066.jpg", "text": "Are there only three people appear in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 19, "image": "count/000000276434.jpg", "text": "Is there a total of three cakes in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 20, "image": "count/000000276434.jpg", "text": "Are there only two cakes in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 21, "image": "count/000000289059.jpg", "text": "Is there a total of two person appear in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 22, "image": "count/000000289059.jpg", "text": "Is there only one person appear in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 23, "image": "count/000000290081.jpg", "text": "Is there only one bowl in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 24, "image": "count/000000290081.jpg", "text": "Are there two bowls in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 25, "image": "count/000000301867.jpg", "text": "Are there three people appear in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 26, "image": "count/000000301867.jpg", "text": "Are there only two people appear in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 27, "image": "count/000000335954.jpg", "text": "Are there two bowls in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 28, "image": "count/000000335954.jpg", "text": "Are there three bowls in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 29, "image": "count/000000357816.jpg", "text": "Are there four people in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 30, "image": "count/000000357816.jpg", "text": "Are there five people in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 31, "image": "count/000000372819.jpg", "text": "Are there four dogs appear in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 32, "image": "count/000000372819.jpg", "text": "Are there only three dogs appear in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 33, "image": "count/000000410612.jpg", "text": "Is there only one ship in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 34, "image": "count/000000410612.jpg", "text": "Is there a total of two ships in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 35, "image": "count/000000423944.jpg", "text": "Is there no person in this picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 36, "image": "count/000000423944.jpg", "text": "Are there two people appear in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 37, "image": "count/000000427034.jpg", "text": "Is there a dog in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 38, "image": "count/000000427034.jpg", "text": "Are there a total of two dogs in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 39, "image": "count/000000430286.jpg", "text": "Are there three remotes in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 40, "image": "count/000000430286.jpg", "text": "Are there only two remotes in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 41, "image": "count/000000432468.jpg", "text": "Are there three zippers in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 42, "image": "count/000000432468.jpg", "text": "Is there a zipper in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 43, "image": "count/000000434479.jpg", "text": "Are there two pieces of pizza in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 44, "image": "count/000000434479.jpg", "text": "Is there only one piece of pizza in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 45, "image": "count/000000438304.jpg", "text": "Are there two tennis rackets in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 46, "image": "count/000000438304.jpg", "text": "Are there only one tennis racket in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 47, "image": "count/000000450303.jpg", "text": "Are there six people appear in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 48, "image": "count/000000450303.jpg", "text": "Are there seven people appear in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 49, "image": "count/000000470121.jpg", "text": "Is there only one bottle in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 50, "image": "count/000000470121.jpg", "text": "Is there two bottles in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 51, "image": "count/000000476215.jpg", "text": "Are there two horses in this image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 52, "image": "count/000000476215.jpg", "text": "Is there only one horse in this image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 53, "image": "count/000000482100.jpg", "text": "Are there two toilets in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 54, "image": "count/000000482100.jpg", "text": "Is there only one toilet in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 55, "image": "count/000000491867.jpg", "text": "Is there only one necktie in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 56, "image": "count/000000491867.jpg", "text": "Is there three neckties in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 57, "image": "count/000000556000.jpg", "text": "Are there four people in the image? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 58, "image": "count/000000556000.jpg", "text": "Are there only three people in the image? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 59, "image": "count/000000565045.jpg", "text": "Are there two bath towels in the picture? Please answer yes or no.", "label": "yes", "setting": "count"}
+{"question_id": 60, "image": "count/000000565045.jpg", "text": "Is there only one bath towel in the picture? Please answer yes or no.", "label": "no", "setting": "count"}
+{"question_id": 1, "image": "position/000000006471.jpg", "text": "Is the cricket bat above the batter's body? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 2, "image": "position/000000006471.jpg", "text": "Is the cricket bat under the batter's body Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 3, "image": "position/000000007281.jpg", "text": "Is the sea behind people in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 4, "image": "position/000000007281.jpg", "text": "Is the sea in front of people in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 5, "image": "position/000000014038.jpg", "text": "Is the refrigerator on the left side of the picture? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 6, "image": "position/000000014038.jpg", "text": "Is the refrigerator on the right side of the picture Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 7, "image": "position/000000031248.jpg", "text": "Is there a sofa in the middle of potted plants in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 8, "image": "position/000000031248.jpg", "text": "Is there a sofa in the right side of potted plants in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 9, "image": "position/000000048504.jpg", "text": "Is the gray elephant in front of the brown elephant? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 10, "image": "position/000000048504.jpg", "text": "Is the brown elephant in front of the gray elephant? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 11, "image": "position/000000052007.jpg", "text": "Are the pedestrians on the right of the bus? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 12, "image": "position/000000052007.jpg", "text": "Are the pedestrians on the left of the bus? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 13, "image": "position/000000056127.jpg", "text": "Is the light above the fire hydrant in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 14, "image": "position/000000056127.jpg", "text": "Is the light under the fire hydrant in the image?  Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 15, "image": "position/000000062025.jpg", "text": "Is the trash can under the cup in the image？ Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 16, "image": "position/000000062025.jpg", "text": "Is the trash can above the cup in the image？ Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 17, "image": "position/000000062808.jpg", "text": "Is the phone above the pizza in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 18, "image": "position/000000062808.jpg", "text": "Is the phone under the pizza in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 19, "image": "position/000000067213.jpg", "text": "Is the dog above the pool in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 20, "image": "position/000000067213.jpg", "text": "Is the dog under the pool in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 21, "image": "position/000000097994.jpg", "text": "Is the light above the computer in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 22, "image": "position/000000097994.jpg", "text": "Is the light under the computer in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 23, "image": "position/000000204871.jpg", "text": "Is the car on the right side of the fire hydrant in the picture? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 24, "image": "position/000000204871.jpg", "text": "Is the car on the left side of the fire hydrant in the picture? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 25, "image": "position/000000206487.jpg", "text": "Is the motorcycle on the right side of the bus? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 26, "image": "position/000000206487.jpg", "text": "Is the motorcycle on the left side of the bus Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 27, "image": "position/000000211825.jpg", "text": "Is the cake on the left side of the camera? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 28, "image": "position/000000211825.jpg", "text": "Is the cake on the right side of the camera? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 29, "image": "position/000000212800.jpg", "text": "Is the blue umbrella under the black umbrella? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 30, "image": "position/000000212800.jpg", "text": "Is the blue umbrella above the black umbrella? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 31, "image": "position/000000395701.jpg", "text": "Is the TV on the left of the bookshelf? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 32, "image": "position/000000395701.jpg", "text": "Is the TV on the right of the bookshelf? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 33, "image": "position/000000395801.jpg", "text": "Is the clock above people? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 34, "image": "position/000000395801.jpg", "text": "Is the clock under people? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 35, "image": "position/000000405970.jpg", "text": "Is the grey sofa on the right of the TV? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 36, "image": "position/000000405970.jpg", "text": "Is the grey sofa on the left of the TV? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 37, "image": "position/000000426241.jpg", "text": "Is the white mouse on the right of the black keyboard? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 38, "image": "position/000000426241.jpg", "text": "Is the white mouse on the left of the black keyboard? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 39, "image": "position/000000450303.jpg", "text": "Is the monitor on top of a person? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 40, "image": "position/000000450303.jpg", "text": "Is the monitor under the person? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 41, "image": "position/000000458410.jpg", "text": "Is the TV on the left of the lamp? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 42, "image": "position/000000458410.jpg", "text": "Is the TV on the right of the lamp? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 43, "image": "position/000000472046.jpg", "text": "Is the pineapple on the left of the pot in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 44, "image": "position/000000472046.jpg", "text": "Is the pineapple on the right of the pot in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 45, "image": "position/000000477955.jpg", "text": "Is the person under the kite? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 46, "image": "position/000000477955.jpg", "text": "Is the person above the kite? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 47, "image": "position/000000482585.jpg", "text": "Is the person on the right of the train? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 48, "image": "position/000000482585.jpg", "text": "Is the person on the left of the train? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 49, "image": "position/000000494869.jpg", "text": "Is the baby on the right of the dog in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 50, "image": "position/000000494869.jpg", "text": "Is the baby on the left of the dog in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 51, "image": "position/000000509699.jpg", "text": "Is the mirror above the TV? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 52, "image": "position/000000509699.jpg", "text": "Is the mirror under the TV? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 53, "image": "position/000000519569.jpg", "text": "Is the vase on the left of the bottle? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 54, "image": "position/000000519569.jpg", "text": "Is the vase on the right of the bottle? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 55, "image": "position/000000530162.jpg", "text": "Is the big red and black umbrella on the top of people? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 56, "image": "position/000000530162.jpg", "text": "Is the big red and black umbrella under people? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 57, "image": "position/000000551660.jpg", "text": "Is the spoon in the bowl? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 58, "image": "position/000000551660.jpg", "text": "Is the spoon out of the bowl? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 59, "image": "position/000000578922.jpg", "text": "Is the vase on the left of the toothbrush? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 60, "image": "position/000000578922.jpg", "text": "Is the vase on the right of the toothbrush? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 1, "image": "color/000000006723.jpg", "text": "Is there a red brick building in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 2, "image": "color/000000006723.jpg", "text": "Is there a yellow brick building in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 3, "image": "color/000000008277.jpg", "text": "Is there a white plate in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 4, "image": "color/000000008277.jpg", "text": "Is there a yellow plate in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 5, "image": "color/000000012120.jpg", "text": "Is there a blue court in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 6, "image": "color/000000012120.jpg", "text": "Is there a purple court in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 7, "image": "color/000000014831.jpg", "text": "Is there a brown and white animal in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 8, "image": "color/000000014831.jpg", "text": "Is there a green and red animal in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 9, "image": "color/000000028993.jpg", "text": "Are there yellow poles in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 10, "image": "color/000000028993.jpg", "text": "Are there blue poles in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 11, "image": "color/000000029393.jpg", "text": "Is there a brown dog in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 12, "image": "color/000000029393.jpg", "text": "Is there a black dog in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 13, "image": "color/000000035770.jpg", "text": "Is there a black and white toilet in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 14, "image": "color/000000035770.jpg", "text": "Is there a red and white toilet in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 15, "image": "color/000000038118.jpg", "text": "Is there a red coat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 16, "image": "color/000000038118.jpg", "text": "Is there a yellow coat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 17, "image": "color/000000047112.jpg", "text": "Is there a white plate in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 18, "image": "color/000000047112.jpg", "text": "Is there a yellow plate in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 19, "image": "color/000000047121.jpg", "text": "Is there a black cat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 20, "image": "color/000000047121.jpg", "text": "Is there a brown cat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 21, "image": "color/000000053529.jpg", "text": "Is there a green hat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 22, "image": "color/000000053529.jpg", "text": "Is there a red hat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 23, "image": "color/000000053994.jpg", "text": "Is there a gray wall in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 24, "image": "color/000000053994.jpg", "text": "Is there a red wall in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 25, "image": "color/000000055072.jpg", "text": "Is there a brown giraffe in the image?  Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 26, "image": "color/000000055072.jpg", "text": "Is there a black giraffe in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 27, "image": "color/000000057597.jpg", "text": "Are there any red shoes in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 28, "image": "color/000000057597.jpg", "text": "Are there any yellow shoes in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 29, "image": "color/000000061658.jpg", "text": "Are there a white dish in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 30, "image": "color/000000061658.jpg", "text": "Are there a green dish in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 31, "image": "color/000000338560.jpg", "text": "Is there a blue and yellow fire hydrant in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 32, "image": "color/000000338560.jpg", "text": "Is there a blue and orange fire hydrant in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 33, "image": "color/000000370208.jpg", "text": "Is there a red bicycle with white handlebars in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 34, "image": "color/000000370208.jpg", "text": "Is there a red bicycle with black handlebars in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 35, "image": "color/000000377723.jpg", "text": "Is there a blue bus in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 36, "image": "color/000000377723.jpg", "text": "Is there a orange bus in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 37, "image": "color/000000405205.jpg", "text": "Is there a white bus in the image?  Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 38, "image": "color/000000405205.jpg", "text": "Is there a red bus in the image?  Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 39, "image": "color/000000410612.jpg", "text": "Is there a red boat in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 40, "image": "color/000000410612.jpg", "text": "Is there a gray boat in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 41, "image": "color/000000427034.jpg", "text": "Is there a brown and black dog in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 42, "image": "color/000000427034.jpg", "text": "Is there a brown and white dog in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 43, "image": "color/000000442456.jpg", "text": "Is there a man wearing a red shirt in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 44, "image": "color/000000442456.jpg", "text": "Is there a man wearing a white shirt in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 45, "image": "color/000000492362.jpg", "text": "Is there a skateboard with red wheels in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 46, "image": "color/000000492362.jpg", "text": "Is there a skateboard with black wheels in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 47, "image": "color/000000492992.jpg", "text": "Is there a white bird in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 48, "image": "color/000000492992.jpg", "text": "Is there a yellow bird in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 49, "image": "color/000000512929.jpg", "text": "Are there any green beans in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 50, "image": "color/000000512929.jpg", "text": "Are there any orange beans in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 51, "image": "color/000000530457.jpg", "text": "Are there any red flowers in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 52, "image": "color/000000530457.jpg", "text": "Are there any green flowers in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 53, "image": "color/000000532761.jpg", "text": "Is there a living room painted yellow in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 54, "image": "color/000000532761.jpg", "text": "Is there a living room painted black in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 55, "image": "color/000000534041.jpg", "text": "Is there a purple bottle in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 56, "image": "color/000000534041.jpg", "text": "Is there a white bottle in the image? Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 57, "image": "color/000000563758.jpg", "text": "Is there a red scarf in the image?  Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 58, "image": "color/000000563758.jpg", "text": "Is there a brown scarf in the image?  Please answer yes or no.", "label": "no", "setting": "color"}
+{"question_id": 59, "image": "color/000000564280.jpg", "text": "Is there a red couch in the image? Please answer yes or no.", "label": "yes", "setting": "color"}
+{"question_id": 60, "image": "color/000000564280.jpg", "text": "Is there a black couch in the image? Please answer yes or no.", "label": "no", "setting": "color"}

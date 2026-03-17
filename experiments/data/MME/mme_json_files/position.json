@@ -1,0 +1,60 @@
+{"question_id": 1, "image": "position/000000006471.jpg", "text": "Is the cricket bat above the batter's body? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 2, "image": "position/000000006471.jpg", "text": "Is the cricket bat under the batter's body Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 3, "image": "position/000000007281.jpg", "text": "Is the sea behind people in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 4, "image": "position/000000007281.jpg", "text": "Is the sea in front of people in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 5, "image": "position/000000014038.jpg", "text": "Is the refrigerator on the left side of the picture? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 6, "image": "position/000000014038.jpg", "text": "Is the refrigerator on the right side of the picture Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 7, "image": "position/000000031248.jpg", "text": "Is there a sofa in the middle of potted plants in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 8, "image": "position/000000031248.jpg", "text": "Is there a sofa in the right side of potted plants in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 9, "image": "position/000000048504.jpg", "text": "Is the gray elephant in front of the brown elephant? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 10, "image": "position/000000048504.jpg", "text": "Is the brown elephant in front of the gray elephant? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 11, "image": "position/000000052007.jpg", "text": "Are the pedestrians on the right of the bus? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 12, "image": "position/000000052007.jpg", "text": "Are the pedestrians on the left of the bus? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 13, "image": "position/000000056127.jpg", "text": "Is the light above the fire hydrant in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 14, "image": "position/000000056127.jpg", "text": "Is the light under the fire hydrant in the image?  Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 15, "image": "position/000000062025.jpg", "text": "Is the trash can under the cup in the image？ Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 16, "image": "position/000000062025.jpg", "text": "Is the trash can above the cup in the image？ Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 17, "image": "position/000000062808.jpg", "text": "Is the phone above the pizza in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 18, "image": "position/000000062808.jpg", "text": "Is the phone under the pizza in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 19, "image": "position/000000067213.jpg", "text": "Is the dog above the pool in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 20, "image": "position/000000067213.jpg", "text": "Is the dog under the pool in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 21, "image": "position/000000097994.jpg", "text": "Is the light above the computer in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 22, "image": "position/000000097994.jpg", "text": "Is the light under the computer in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 23, "image": "position/000000204871.jpg", "text": "Is the car on the right side of the fire hydrant in the picture? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 24, "image": "position/000000204871.jpg", "text": "Is the car on the left side of the fire hydrant in the picture? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 25, "image": "position/000000206487.jpg", "text": "Is the motorcycle on the right side of the bus? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 26, "image": "position/000000206487.jpg", "text": "Is the motorcycle on the left side of the bus Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 27, "image": "position/000000211825.jpg", "text": "Is the cake on the left side of the camera? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 28, "image": "position/000000211825.jpg", "text": "Is the cake on the right side of the camera? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 29, "image": "position/000000212800.jpg", "text": "Is the blue umbrella under the black umbrella? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 30, "image": "position/000000212800.jpg", "text": "Is the blue umbrella above the black umbrella? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 31, "image": "position/000000395701.jpg", "text": "Is the TV on the left of the bookshelf? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 32, "image": "position/000000395701.jpg", "text": "Is the TV on the right of the bookshelf? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 33, "image": "position/000000395801.jpg", "text": "Is the clock above people? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 34, "image": "position/000000395801.jpg", "text": "Is the clock under people? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 35, "image": "position/000000405970.jpg", "text": "Is the grey sofa on the right of the TV? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 36, "image": "position/000000405970.jpg", "text": "Is the grey sofa on the left of the TV? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 37, "image": "position/000000426241.jpg", "text": "Is the white mouse on the right of the black keyboard? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 38, "image": "position/000000426241.jpg", "text": "Is the white mouse on the left of the black keyboard? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 39, "image": "position/000000450303.jpg", "text": "Is the monitor on top of a person? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 40, "image": "position/000000450303.jpg", "text": "Is the monitor under the person? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 41, "image": "position/000000458410.jpg", "text": "Is the TV on the left of the lamp? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 42, "image": "position/000000458410.jpg", "text": "Is the TV on the right of the lamp? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 43, "image": "position/000000472046.jpg", "text": "Is the pineapple on the left of the pot in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 44, "image": "position/000000472046.jpg", "text": "Is the pineapple on the right of the pot in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 45, "image": "position/000000477955.jpg", "text": "Is the person under the kite? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 46, "image": "position/000000477955.jpg", "text": "Is the person above the kite? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 47, "image": "position/000000482585.jpg", "text": "Is the person on the right of the train? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 48, "image": "position/000000482585.jpg", "text": "Is the person on the left of the train? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 49, "image": "position/000000494869.jpg", "text": "Is the baby on the right of the dog in the image? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 50, "image": "position/000000494869.jpg", "text": "Is the baby on the left of the dog in the image? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 51, "image": "position/000000509699.jpg", "text": "Is the mirror above the TV? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 52, "image": "position/000000509699.jpg", "text": "Is the mirror under the TV? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 53, "image": "position/000000519569.jpg", "text": "Is the vase on the left of the bottle? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 54, "image": "position/000000519569.jpg", "text": "Is the vase on the right of the bottle? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 55, "image": "position/000000530162.jpg", "text": "Is the big red and black umbrella on the top of people? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 56, "image": "position/000000530162.jpg", "text": "Is the big red and black umbrella under people? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 57, "image": "position/000000551660.jpg", "text": "Is the spoon in the bowl? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 58, "image": "position/000000551660.jpg", "text": "Is the spoon out of the bowl? Please answer yes or no.", "label": "no", "setting": "position"}
+{"question_id": 59, "image": "position/000000578922.jpg", "text": "Is the vase on the left of the toothbrush? Please answer yes or no.", "label": "yes", "setting": "position"}
+{"question_id": 60, "image": "position/000000578922.jpg", "text": "Is the vase on the right of the toothbrush? Please answer yes or no.", "label": "no", "setting": "position"}

@@ -1,0 +1,40 @@
+{"question_id": 1, "image": "code_reasoning/0001.png", "text": "The image shows a python code. Is the output of the code 'Hello'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 2, "image": "code_reasoning/0001.png", "text": "The image shows a python code. Is the output of the code 'World'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 3, "image": "code_reasoning/0002.png", "text": "The image shows a python code. Is the output of the code 'a cat'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 4, "image": "code_reasoning/0002.png", "text": "The image shows a python code. Is the output of the code 'a dog'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 5, "image": "code_reasoning/0003.png", "text": "The image shows a python code. Is the output of the code '12'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 6, "image": "code_reasoning/0003.png", "text": "The image shows a python code. Is the output of the code '5'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 7, "image": "code_reasoning/0004.png", "text": "The image shows a python code. Is the output of the code '3'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 8, "image": "code_reasoning/0004.png", "text": "The image shows a python code. Is the output of the code '2'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 9, "image": "code_reasoning/0005.png", "text": "The image shows a python code. Is the output of the code '12'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 10, "image": "code_reasoning/0005.png", "text": "The image shows a python code. Is the output of the code '5'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 11, "image": "code_reasoning/0006.png", "text": "The image shows a python code. Is the output of the code '0'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 12, "image": "code_reasoning/0006.png", "text": "The image shows a python code. Is the output of the code '1'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 13, "image": "code_reasoning/0007.png", "text": "Is a c++ code shown in the picture? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 14, "image": "code_reasoning/0007.png", "text": "Is a python code shown in the picture? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 15, "image": "code_reasoning/0008.png", "text": "The image shows a python code. Is the output of the code '1234'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 16, "image": "code_reasoning/0008.png", "text": "The image shows a python code. Is the output of the code '12345'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 17, "image": "code_reasoning/0009.png", "text": "The image shows a python code. Is the output of the code '36'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 18, "image": "code_reasoning/0009.png", "text": "The image shows a python code. Is the output of the code '6'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 19, "image": "code_reasoning/0010.png", "text": "The image shows a python code. Is the output of the code '1'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 20, "image": "code_reasoning/0010.png", "text": "The image shows a python code. Is the output of the code '5'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 21, "image": "code_reasoning/0011.png", "text": "The image shows a python code. Is the output of the code '0'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 22, "image": "code_reasoning/0011.png", "text": "The image shows a python code. Is the output of the code '1'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 23, "image": "code_reasoning/0012.png", "text": "The image shows a python code. Is the output of the code 'working hard'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 24, "image": "code_reasoning/0012.png", "text": "The image shows a python code. Is the output of the code 'playing hard'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 25, "image": "code_reasoning/0013.png", "text": "The image shows a python code. Is the output of the code 'a cat'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 26, "image": "code_reasoning/0013.png", "text": "The image shows a python code. Is the output of the code 'a dog'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 27, "image": "code_reasoning/0014.png", "text": "The image shows a python code. Is the output of the code '7'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 28, "image": "code_reasoning/0014.png", "text": "The image shows a python code. Is the output of the code '1'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 29, "image": "code_reasoning/0015.png", "text": "The image shows a python code. Is the output of the code '11'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 30, "image": "code_reasoning/0015.png", "text": "The image shows a python code. Is the output of the code '9'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 31, "image": "code_reasoning/0016.png", "text": "The image shows a python code. Is the output of the code 'x is smaller than 10'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 32, "image": "code_reasoning/0016.png", "text": "The image shows a python code. Is the output of the code 'x is larger than 10'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 33, "image": "code_reasoning/0017.png", "text": "The image shows a python code. Will the number 3 appear in the output of the code? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 34, "image": "code_reasoning/0017.png", "text": "The image shows a python code. Will the number 6 appear in the output of the code? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 35, "image": "code_reasoning/0018.png", "text": "The image shows a python code. Is the output of the code '11'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 36, "image": "code_reasoning/0018.png", "text": "The image shows a python code. Is the output of the code '12'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 37, "image": "code_reasoning/0019.png", "text": "The image shows a python code. Is the output of the code 'the list has more than 2 numbers'? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 38, "image": "code_reasoning/0019.png", "text": "The image shows a python code. Is the output of the code 'the list has less than 2 numbers'? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}
+{"question_id": 39, "image": "code_reasoning/0020.png", "text": "Is a python code shown in the picture? Please answer yes or no.", "label": "yes", "setting": "code_reasoning"}
+{"question_id": 40, "image": "code_reasoning/0020.png", "text": "Is a c++ code shown in the picture? Please answer yes or no.", "label": "no", "setting": "code_reasoning"}

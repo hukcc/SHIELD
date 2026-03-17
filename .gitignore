@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyTorch / model checkpoints
+checkpoints/
+*.bin
+*.safetensors
+
+# Experiment outputs
+output/
+/output-*/
+nohup*.out
+
+# NLTK data
+punkt/
+
+# Logs
+*.log
+!logs/**/*.log
+wandb/
+runs/
+
+# ---------- experiments/data ----------
+# Images (download separately, see README)
+experiments/data/coco/val2014/
+experiments/data/gqa/images/
+experiments/data/MME/MME_Benchmark_release_version/
+
+# Cached perturbations (generated at runtime)
+experiments/data/*/perturbations/
+experiments/data/*/pertubations/
+
+# COCO annotations (large JSON files, download separately)
+experiments/data/coco/annotations/
+experiments/data/coco/annotations_trainval2014.zip
+
+# Unused data files
+experiments/data/POPE/coco/coco_full.json
+experiments/data/MME/question_lists/
+
+# Unused caption file (superseded by _new version)
+experiments/first_cap/llava15_mme_hal_first_caption.jsonl
+
+# One-off data preprocessing scripts (outputs already committed)
+experiments/data/CHAIR/script.py
+experiments/data/CHAIR/output_opera.jsonl
+experiments/data/MME/scripts/
+experiments/data/MME/eval_tool/

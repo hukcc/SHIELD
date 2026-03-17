@@ -1,0 +1,400 @@
+{"question_id": 1, "image": "artwork/images/10002.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 2, "image": "artwork/images/10002.jpg", "text": "Does this artwork exist in the form of glassware? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 3, "image": "artwork/images/10049.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 4, "image": "artwork/images/10049.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 5, "image": "artwork/images/10256.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 6, "image": "artwork/images/10256.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 7, "image": "artwork/images/10358.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 8, "image": "artwork/images/10358.jpg", "text": "Does this artwork exist in the form of glassware? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 9, "image": "artwork/images/10543.jpg", "text": "Is this artwork displayed in fogg art museum, harvard university, cambridge? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 10, "image": "artwork/images/10543.jpg", "text": "Is this artwork displayed in museo civico, pistoia? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 11, "image": "artwork/images/10581.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 12, "image": "artwork/images/10581.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 13, "image": "artwork/images/1060.jpg", "text": "Is this artwork created by antoniazzo romano? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 14, "image": "artwork/images/1060.jpg", "text": "Is this artwork created by gentile da fabriano? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 15, "image": "artwork/images/10881.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 16, "image": "artwork/images/10881.jpg", "text": "Does this artwork exist in the form of tapestry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 17, "image": "artwork/images/10970.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 18, "image": "artwork/images/10970.jpg", "text": "Does this artwork belong to the type of study? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 19, "image": "artwork/images/11276.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 20, "image": "artwork/images/11276.jpg", "text": "Does this artwork exist in the form of graphics? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 21, "image": "artwork/images/11331.jpg", "text": "Is this artwork created by donatello? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 22, "image": "artwork/images/11331.jpg", "text": "Is this artwork created by zichy, mihály? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 23, "image": "artwork/images/11488.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 24, "image": "artwork/images/11488.jpg", "text": "Does this artwork belong to the type of historical? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 25, "image": "artwork/images/11724.jpg", "text": "Is this artwork created by duccio di buoninsegna? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 26, "image": "artwork/images/11724.jpg", "text": "Is this artwork created by giani, felice? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 27, "image": "artwork/images/11726.jpg", "text": "Is this artwork titled temptation on the mountain (detail)? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 28, "image": "artwork/images/11726.jpg", "text": "Is this artwork titled in the forest of fontainebleau? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 29, "image": "artwork/images/12133.jpg", "text": "Is this artwork titled hand study with bible? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 30, "image": "artwork/images/12133.jpg", "text": "Is this artwork titled self-portrait aged 78? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 31, "image": "artwork/images/12439.jpg", "text": "Is this artwork created by dürer, albrecht? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 32, "image": "artwork/images/12439.jpg", "text": "Is this artwork created by koekkoek, barend cornelis? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 33, "image": "artwork/images/12561.jpg", "text": "Is this artwork created by eberlein, gustav heinrich? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 34, "image": "artwork/images/12561.jpg", "text": "Is this artwork created by gillemans, jan pauwel the younger? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 35, "image": "artwork/images/12652.jpg", "text": "Is this artwork displayed in stedelijk museum de lakenhal, leiden? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 36, "image": "artwork/images/12652.jpg", "text": "Is this artwork displayed in palazzo ducale, mantua? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 37, "image": "artwork/images/12736.jpg", "text": "Is this artwork displayed in cannon hall museum, barnsley? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 38, "image": "artwork/images/12736.jpg", "text": "Is this artwork displayed in protestant parish church, gelnhausen? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 39, "image": "artwork/images/12902.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 40, "image": "artwork/images/12902.jpg", "text": "Is this artwork displayed in musée national gustave-moreau, paris? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 41, "image": "artwork/images/12908.jpg", "text": "Is this artwork titled ruth and boaz? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 42, "image": "artwork/images/12908.jpg", "text": "Is this artwork titled view of dresden from the right bank of the elbe with the augustus bridge? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 43, "image": "artwork/images/13091.jpg", "text": "Is this artwork titled italianate landscape with figures by classical ruins? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 44, "image": "artwork/images/13091.jpg", "text": "Is this artwork titled two boys singing? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 45, "image": "artwork/images/13174.jpg", "text": "Is this artwork titled nobility? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 46, "image": "artwork/images/13174.jpg", "text": "Is this artwork titled aretino in the studio of tintoretto? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 47, "image": "artwork/images/13239.jpg", "text": "Is this artwork titled doge ziani receiving the benediction of pope alexander iii? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 48, "image": "artwork/images/13239.jpg", "text": "Is this artwork titled the adoration of the shepherds? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 49, "image": "artwork/images/13288.jpg", "text": "Does this artwork exist in the form of architecture? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 50, "image": "artwork/images/13288.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 51, "image": "artwork/images/13696.jpg", "text": "Is this artwork displayed in pinacoteca nazionale, siena? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 52, "image": "artwork/images/13696.jpg", "text": "Is this artwork displayed in british embassy, paris? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 53, "image": "artwork/images/13760.jpg", "text": "Is this artwork titled noli me tangere? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 54, "image": "artwork/images/13760.jpg", "text": "Is this artwork titled profile study of a bearded man? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 55, "image": "artwork/images/13821.jpg", "text": "Is this artwork created by frangipane, niccolò? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 56, "image": "artwork/images/13821.jpg", "text": "Is this artwork created by drevet, pierre? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 57, "image": "artwork/images/13901.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 58, "image": "artwork/images/13901.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 59, "image": "artwork/images/14283.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 60, "image": "artwork/images/14283.jpg", "text": "Does this artwork exist in the form of mosaic? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 61, "image": "artwork/images/14499.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 62, "image": "artwork/images/14499.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 63, "image": "artwork/images/14777.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 64, "image": "artwork/images/14777.jpg", "text": "Does this artwork belong to the type of historical? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 65, "image": "artwork/images/15028.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 66, "image": "artwork/images/15028.jpg", "text": "Does this artwork belong to the type of study? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 67, "image": "artwork/images/15232.jpg", "text": "Is this artwork created by giordano, luca? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 68, "image": "artwork/images/15232.jpg", "text": "Is this artwork created by heyerdahl, hans olaf? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 69, "image": "artwork/images/15246.jpg", "text": "Is this artwork displayed in palazzo medici riccardi, florence? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 70, "image": "artwork/images/15246.jpg", "text": "Is this artwork displayed in abbey church of sainte-foy, conques (aveyron)? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 71, "image": "artwork/images/15311.jpg", "text": "Is this artwork created by giorgione? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 72, "image": "artwork/images/15311.jpg", "text": "Is this artwork created by marilhat, prosper? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 73, "image": "artwork/images/15989.jpg", "text": "Is this artwork displayed in pinacoteca, vatican? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 74, "image": "artwork/images/15989.jpg", "text": "Is this artwork displayed in cathedral museum, zamora? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 75, "image": "artwork/images/16006.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 76, "image": "artwork/images/16006.jpg", "text": "Is this artwork displayed in cathedral of san geminiano, modena? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 77, "image": "artwork/images/16249.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 78, "image": "artwork/images/16249.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 79, "image": "artwork/images/16538.jpg", "text": "Is this artwork created by gogh, vincent van? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 80, "image": "artwork/images/16538.jpg", "text": "Is this artwork created by altdorfer, albrecht? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 81, "image": "artwork/images/16835.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 82, "image": "artwork/images/16835.jpg", "text": "Does this artwork exist in the form of illumination? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 83, "image": "artwork/images/16911.jpg", "text": "Is this artwork created by gossart, jan? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 84, "image": "artwork/images/16911.jpg", "text": "Is this artwork created by stanzione, massimo? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 85, "image": "artwork/images/17311.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 86, "image": "artwork/images/17311.jpg", "text": "Does this artwork belong to the type of interior? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 87, "image": "artwork/images/17317.jpg", "text": "Is this artwork created by gozzoli, benozzo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 88, "image": "artwork/images/17317.jpg", "text": "Is this artwork created by coriolano, cristoforo? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 89, "image": "artwork/images/17535.jpg", "text": "Is this artwork created by grebber, pieter de? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 90, "image": "artwork/images/17535.jpg", "text": "Is this artwork created by massys, quentin? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 91, "image": "artwork/images/17823.jpg", "text": "Is this artwork created by greuze, jean-baptiste? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 92, "image": "artwork/images/17823.jpg", "text": "Is this artwork created by landseer, sir edwin henry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 93, "image": "artwork/images/17838.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 94, "image": "artwork/images/17838.jpg", "text": "Does this artwork exist in the form of furniture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 95, "image": "artwork/images/17998.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 96, "image": "artwork/images/17998.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 97, "image": "artwork/images/18566.jpg", "text": "Is this artwork created by hamen, juan van der? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 98, "image": "artwork/images/18566.jpg", "text": "Is this artwork created by starnina, gherardo di jacopo? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 99, "image": "artwork/images/18604.jpg", "text": "Is this artwork created by hardouin-mansart, jules? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 100, "image": "artwork/images/18604.jpg", "text": "Is this artwork created by kerseboom, friedrich? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 101, "image": "artwork/images/18722.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 102, "image": "artwork/images/18722.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 103, "image": "artwork/images/1873.jpg", "text": "Does this artwork exist in the form of architecture? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 104, "image": "artwork/images/1873.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 105, "image": "artwork/images/18902.jpg", "text": "Is this artwork created by herrera, francisco de, the elder? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 106, "image": "artwork/images/18902.jpg", "text": "Is this artwork created by ingres, jean-auguste-dominique? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 107, "image": "artwork/images/18926.jpg", "text": "Is this artwork created by herring, john frederick the younger? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 108, "image": "artwork/images/18926.jpg", "text": "Is this artwork created by cozens, john robert? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 109, "image": "artwork/images/19087.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 110, "image": "artwork/images/19087.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 111, "image": "artwork/images/19154.jpg", "text": "Is this artwork titled portrait of the merchant georg gisze (detail)? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 112, "image": "artwork/images/19154.jpg", "text": "Is this artwork titled pair of table candlesticks? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 113, "image": "artwork/images/19417.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 114, "image": "artwork/images/19417.jpg", "text": "Does this artwork exist in the form of mosaic? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 115, "image": "artwork/images/19452.jpg", "text": "Is this artwork titled the artist and his model? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 116, "image": "artwork/images/19452.jpg", "text": "Is this artwork titled the lovesick maiden (detail)? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 117, "image": "artwork/images/19839.jpg", "text": "Is this artwork created by janneck, franz christoph? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 118, "image": "artwork/images/19839.jpg", "text": "Is this artwork created by goupil, jules-adolphe? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 119, "image": "artwork/images/19863.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 120, "image": "artwork/images/19863.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 121, "image": "artwork/images/19993.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 122, "image": "artwork/images/19993.jpg", "text": "Is this artwork displayed in cathedral of st paul, liège? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 123, "image": "artwork/images/20176.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 124, "image": "artwork/images/20176.jpg", "text": "Does this artwork exist in the form of furniture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 125, "image": "artwork/images/20437.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 126, "image": "artwork/images/20437.jpg", "text": "Does this artwork exist in the form of tapestry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 127, "image": "artwork/images/20442.jpg", "text": "Is this artwork created by kucharski, aleksander? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 128, "image": "artwork/images/20442.jpg", "text": "Is this artwork created by pourbus, frans the elder? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 129, "image": "artwork/images/20455.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 130, "image": "artwork/images/20455.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 131, "image": "artwork/images/20483.jpg", "text": "Is this artwork titled allegory of the regency? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 132, "image": "artwork/images/20483.jpg", "text": "Is this artwork titled breton woman bathing? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 133, "image": "artwork/images/20490.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 134, "image": "artwork/images/20490.jpg", "text": "Does this artwork exist in the form of illumination? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 135, "image": "artwork/images/20551.jpg", "text": "Is this artwork created by lagrenée, jean-jacques? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 136, "image": "artwork/images/20551.jpg", "text": "Is this artwork created by scultori, diana? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 137, "image": "artwork/images/20651.jpg", "text": "Is this artwork titled a highland landscape? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 138, "image": "artwork/images/20651.jpg", "text": "Is this artwork titled a dog and a cat fighting in a kitchen interior? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 139, "image": "artwork/images/20724.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 140, "image": "artwork/images/20724.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 141, "image": "artwork/images/21048.jpg", "text": "Is this artwork created by lemoyne, jean-baptiste ii? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 142, "image": "artwork/images/21048.jpg", "text": "Is this artwork created by kneller, sir godfrey? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 143, "image": "artwork/images/21097.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 144, "image": "artwork/images/21097.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 145, "image": "artwork/images/21244.jpg", "text": "Does this artwork belong to the type of study? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 146, "image": "artwork/images/21244.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 147, "image": "artwork/images/21469.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 148, "image": "artwork/images/21469.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 149, "image": "artwork/images/21580.jpg", "text": "Is this artwork created by linard, jacques? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 150, "image": "artwork/images/21580.jpg", "text": "Is this artwork created by bonino da campione? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 151, "image": "artwork/images/21712.jpg", "text": "Is this artwork titled st john the evangelist resuscitating drusiana? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 152, "image": "artwork/images/21712.jpg", "text": "Is this artwork titled la finette? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 153, "image": "artwork/images/22329.jpg", "text": "Is this artwork titled marriage of the virgin? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 154, "image": "artwork/images/22329.jpg", "text": "Is this artwork titled landscape with river and figures (detail)? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 155, "image": "artwork/images/22366.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 156, "image": "artwork/images/22366.jpg", "text": "Does this artwork exist in the form of glassware? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 157, "image": "artwork/images/22667.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 158, "image": "artwork/images/22667.jpg", "text": "Is this artwork displayed in san francesco d'assisi, pavia? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 159, "image": "artwork/images/22760.jpg", "text": "Is this artwork titled madonna and child (detail)? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 160, "image": "artwork/images/22760.jpg", "text": "Is this artwork titled view of the south and east walls? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 161, "image": "artwork/images/22842.jpg", "text": "Is this artwork titled ukrainian peasant girl? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 162, "image": "artwork/images/22842.jpg", "text": "Is this artwork titled virtue crowning merit? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 163, "image": "artwork/images/23229.jpg", "text": "Is this artwork displayed in national gallery, london? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 164, "image": "artwork/images/23229.jpg", "text": "Is this artwork displayed in notre-dame-la-riche, tours? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 165, "image": "artwork/images/23427.jpg", "text": "Is this artwork displayed in the hermitage, st. petersburg? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 166, "image": "artwork/images/23427.jpg", "text": "Is this artwork displayed in national gallery of victoria, melbourne? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 167, "image": "artwork/images/23465.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 168, "image": "artwork/images/23465.jpg", "text": "Is this artwork displayed in cistertian church, zirc? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 169, "image": "artwork/images/23824.jpg", "text": "Is this artwork titled christ walking on the water? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 170, "image": "artwork/images/23824.jpg", "text": "Is this artwork titled mademoiselle romaine lacaux? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 171, "image": "artwork/images/24122.jpg", "text": "Is this artwork displayed in museo correr, venice? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 172, "image": "artwork/images/24122.jpg", "text": "Is this artwork displayed in church of brou, bourg-en-bresse? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 173, "image": "artwork/images/24260.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 174, "image": "artwork/images/24260.jpg", "text": "Does this artwork exist in the form of illumination? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 175, "image": "artwork/images/24291.jpg", "text": "Is this artwork titled virgin and child with sts catherine, cecilia, barbara, and ursula? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 176, "image": "artwork/images/24291.jpg", "text": "Is this artwork titled sorrow? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 177, "image": "artwork/images/24723.jpg", "text": "Is this artwork titled tomb of henry the lion and his wife matilda? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 178, "image": "artwork/images/24723.jpg", "text": "Is this artwork titled god the father? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 179, "image": "artwork/images/2490.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 180, "image": "artwork/images/2490.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 181, "image": "artwork/images/2507.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 182, "image": "artwork/images/2507.jpg", "text": "Is this artwork displayed in st. vitus's cathedral, prague? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 183, "image": "artwork/images/25312.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 184, "image": "artwork/images/25312.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 185, "image": "artwork/images/25476.jpg", "text": "Is this artwork created by michelangelo buonarroti? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 186, "image": "artwork/images/25476.jpg", "text": "Is this artwork created by beuckelaer, joachim? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 187, "image": "artwork/images/25492.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 188, "image": "artwork/images/25492.jpg", "text": "Does this artwork exist in the form of illumination? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 189, "image": "artwork/images/25513.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 190, "image": "artwork/images/25513.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 191, "image": "artwork/images/26521.jpg", "text": "Does this artwork exist in the form of illumination? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 192, "image": "artwork/images/26521.jpg", "text": "Does this artwork exist in the form of furniture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 193, "image": "artwork/images/26973.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 194, "image": "artwork/images/26973.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 195, "image": "artwork/images/27021.jpg", "text": "Is this artwork created by miniaturist, german? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 196, "image": "artwork/images/27021.jpg", "text": "Is this artwork created by trinquesse, louis-rolland? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 197, "image": "artwork/images/27662.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 198, "image": "artwork/images/27662.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 199, "image": "artwork/images/27936.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 200, "image": "artwork/images/27936.jpg", "text": "Does this artwork belong to the type of interior? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 201, "image": "artwork/images/28039.jpg", "text": "Is this artwork displayed in cappella palatina, palermo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 202, "image": "artwork/images/28039.jpg", "text": "Is this artwork displayed in musée des beaux-arts, chambéry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 203, "image": "artwork/images/28345.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 204, "image": "artwork/images/28345.jpg", "text": "Does this artwork exist in the form of tapestry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 205, "image": "artwork/images/28400.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 206, "image": "artwork/images/28400.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 207, "image": "artwork/images/28698.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 208, "image": "artwork/images/28698.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 209, "image": "artwork/images/28758.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 210, "image": "artwork/images/28758.jpg", "text": "Does this artwork exist in the form of graphics? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 211, "image": "artwork/images/28974.jpg", "text": "Is this artwork titled prayer before the meal? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 212, "image": "artwork/images/28974.jpg", "text": "Is this artwork titled rest in the mountains? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 213, "image": "artwork/images/29266.jpg", "text": "Is this artwork created by palma vecchio? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 214, "image": "artwork/images/29266.jpg", "text": "Is this artwork created by maris, jacobus hendricus? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 215, "image": "artwork/images/30443.jpg", "text": "Is this artwork titled the crucifixion with sts jerome and christopher? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 216, "image": "artwork/images/30443.jpg", "text": "Is this artwork titled tomb of michelangelo (detail)? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 217, "image": "artwork/images/3085.jpg", "text": "Is this artwork created by bartsius, willem? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 218, "image": "artwork/images/3085.jpg", "text": "Is this artwork created by oehme, ernst ferdinand? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 219, "image": "artwork/images/30875.jpg", "text": "Is this artwork created by pomarancio? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 220, "image": "artwork/images/30875.jpg", "text": "Is this artwork created by steen, jan? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 221, "image": "artwork/images/3114.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 222, "image": "artwork/images/3114.jpg", "text": "Does this artwork belong to the type of study? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 223, "image": "artwork/images/31808.jpg", "text": "Is this artwork created by raffaello sanzio? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 224, "image": "artwork/images/31808.jpg", "text": "Is this artwork created by simon von taisten? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 225, "image": "artwork/images/32147.jpg", "text": "Is this artwork titled lucretia? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 226, "image": "artwork/images/32147.jpg", "text": "Is this artwork titled rinaldo abandoning armida (detail)? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 227, "image": "artwork/images/3241.jpg", "text": "Is this artwork titled holy family? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 228, "image": "artwork/images/3241.jpg", "text": "Is this artwork titled friedrich iii, the wise, and johann i, the constant, electors of saxony? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 229, "image": "artwork/images/33017.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 230, "image": "artwork/images/33017.jpg", "text": "Does this artwork exist in the form of glassware? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 231, "image": "artwork/images/33069.jpg", "text": "Does this artwork belong to the type of historical? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 232, "image": "artwork/images/33069.jpg", "text": "Does this artwork belong to the type of interior? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 233, "image": "artwork/images/33173.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 234, "image": "artwork/images/33173.jpg", "text": "Does this artwork exist in the form of graphics? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 235, "image": "artwork/images/33753.jpg", "text": "Is this artwork titled vanitas? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 236, "image": "artwork/images/33753.jpg", "text": "Is this artwork titled legend of st francis: 18. apparition at arles (detail)? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 237, "image": "artwork/images/33854.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 238, "image": "artwork/images/33854.jpg", "text": "Does this artwork belong to the type of study? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 239, "image": "artwork/images/339.jpg", "text": "Is this artwork displayed in staatliche museen, berlin? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 240, "image": "artwork/images/339.jpg", "text": "Is this artwork displayed in national museum of religious carvings, valladolid? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 241, "image": "artwork/images/33933.jpg", "text": "Is this artwork titled madonna and child? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 242, "image": "artwork/images/33933.jpg", "text": "Is this artwork titled the bacino di san marco? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 243, "image": "artwork/images/3404.jpg", "text": "Is this artwork displayed in szépmûvészeti múzeum, budapest? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 244, "image": "artwork/images/3404.jpg", "text": "Is this artwork displayed in s. eustorgio, milan? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 245, "image": "artwork/images/34109.jpg", "text": "Is this artwork displayed in national gallery of art, washington? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 246, "image": "artwork/images/34109.jpg", "text": "Is this artwork displayed in abbey church of sainte-foy, conques? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 247, "image": "artwork/images/34363.jpg", "text": "Is this artwork displayed in museo del prado, madrid? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 248, "image": "artwork/images/34363.jpg", "text": "Is this artwork displayed in state tretyakov gallery, moscow? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 249, "image": "artwork/images/34539.jpg", "text": "Is this artwork titled the victory of eucharistic truth over heresy? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 250, "image": "artwork/images/34539.jpg", "text": "Is this artwork titled a sunday afternoon on the ile de la grande jatte? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 251, "image": "artwork/images/34627.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 252, "image": "artwork/images/34627.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 253, "image": "artwork/images/34638.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 254, "image": "artwork/images/34638.jpg", "text": "Does this artwork exist in the form of tapestry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 255, "image": "artwork/images/34669.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 256, "image": "artwork/images/34669.jpg", "text": "Does this artwork belong to the type of historical? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 257, "image": "artwork/images/35345.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 258, "image": "artwork/images/35345.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 259, "image": "artwork/images/35439.jpg", "text": "Is this artwork titled madonna and child with a host of musical angels? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 260, "image": "artwork/images/35439.jpg", "text": "Is this artwork titled garden in fontenay? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 261, "image": "artwork/images/35460.jpg", "text": "Is this artwork created by schinkel, karl friedrich? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 262, "image": "artwork/images/35460.jpg", "text": "Is this artwork created by giolfino, bartolomeo? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 263, "image": "artwork/images/35486.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 264, "image": "artwork/images/35486.jpg", "text": "Does this artwork exist in the form of furniture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 265, "image": "artwork/images/35513.jpg", "text": "Is this artwork created by schongauer, martin? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 266, "image": "artwork/images/35513.jpg", "text": "Is this artwork created by cassioli, amos? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 267, "image": "artwork/images/3552.jpg", "text": "Is this artwork titled madonna degli alberetti? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 268, "image": "artwork/images/3552.jpg", "text": "Is this artwork titled peter gillis? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 269, "image": "artwork/images/35658.jpg", "text": "Is this artwork created by sebastiano del piombo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 270, "image": "artwork/images/35658.jpg", "text": "Is this artwork created by jacobsz., dirck? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 271, "image": "artwork/images/35736.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 272, "image": "artwork/images/35736.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 273, "image": "artwork/images/35861.jpg", "text": "Does this artwork belong to the type of interior? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 274, "image": "artwork/images/35861.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 275, "image": "artwork/images/36805.jpg", "text": "Is this artwork titled weir? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 276, "image": "artwork/images/36805.jpg", "text": "Is this artwork titled view of the window wall? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 277, "image": "artwork/images/36966.jpg", "text": "Does this artwork belong to the type of portrait? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 278, "image": "artwork/images/36966.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 279, "image": "artwork/images/37010.jpg", "text": "Is this artwork titled madonna and child with the young st john? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 280, "image": "artwork/images/37010.jpg", "text": "Is this artwork titled sketch for attila? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 281, "image": "artwork/images/37077.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 282, "image": "artwork/images/37077.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 283, "image": "artwork/images/37439.jpg", "text": "Is this artwork titled the message? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 284, "image": "artwork/images/37439.jpg", "text": "Is this artwork titled the descent from the cross? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 285, "image": "artwork/images/37819.jpg", "text": "Is this artwork created by tiepolo, giovanni battista? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 286, "image": "artwork/images/37819.jpg", "text": "Is this artwork created by kerricx, willem ignatius? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 287, "image": "artwork/images/37866.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 288, "image": "artwork/images/37866.jpg", "text": "Does this artwork belong to the type of still-life? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 289, "image": "artwork/images/381.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 290, "image": "artwork/images/381.jpg", "text": "Does this artwork exist in the form of architecture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 291, "image": "artwork/images/38178.jpg", "text": "Is this artwork created by tintoretto? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 292, "image": "artwork/images/38178.jpg", "text": "Is this artwork created by morel, jean-baptiste? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 293, "image": "artwork/images/38536.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 294, "image": "artwork/images/38536.jpg", "text": "Does this artwork exist in the form of furniture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 295, "image": "artwork/images/38546.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 296, "image": "artwork/images/38546.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 297, "image": "artwork/images/38694.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 298, "image": "artwork/images/38694.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 299, "image": "artwork/images/38740.jpg", "text": "Is this artwork displayed in musée toulouse-lautrec, albi? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 300, "image": "artwork/images/38740.jpg", "text": "Is this artwork displayed in kupferstichkabinett, gotha? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 301, "image": "artwork/images/38881.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 302, "image": "artwork/images/38881.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 303, "image": "artwork/images/38993.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 304, "image": "artwork/images/38993.jpg", "text": "Does this artwork exist in the form of illumination? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 305, "image": "artwork/images/39026.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 306, "image": "artwork/images/39026.jpg", "text": "Does this artwork belong to the type of historical? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 307, "image": "artwork/images/39124.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 308, "image": "artwork/images/39124.jpg", "text": "Does this artwork exist in the form of graphics? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 309, "image": "artwork/images/39188.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 310, "image": "artwork/images/39188.jpg", "text": "Does this artwork exist in the form of architecture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 311, "image": "artwork/images/39482.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 312, "image": "artwork/images/39482.jpg", "text": "Does this artwork exist in the form of metalwork? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 313, "image": "artwork/images/39556.jpg", "text": "Is this artwork created by unknown master, dutch? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 314, "image": "artwork/images/39556.jpg", "text": "Is this artwork created by cuyp, benjamin gerritsz.? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 315, "image": "artwork/images/41036.jpg", "text": "Is this artwork displayed in kunsthistorisches museum, vienna? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 316, "image": "artwork/images/41036.jpg", "text": "Is this artwork displayed in national museum of art, minsk? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 317, "image": "artwork/images/41371.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 318, "image": "artwork/images/41371.jpg", "text": "Does this artwork exist in the form of architecture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 319, "image": "artwork/images/41484.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 320, "image": "artwork/images/41484.jpg", "text": "Does this artwork belong to the type of historical? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 321, "image": "artwork/images/41594.jpg", "text": "Is this artwork created by veronese, paolo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 322, "image": "artwork/images/41594.jpg", "text": "Is this artwork created by jeaurat, etienne? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 323, "image": "artwork/images/416.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 324, "image": "artwork/images/416.jpg", "text": "Does this artwork exist in the form of others? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 325, "image": "artwork/images/41653.jpg", "text": "Is this artwork titled view of the sala del collegio? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 326, "image": "artwork/images/41653.jpg", "text": "Is this artwork titled reine lefebvre and margot? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 327, "image": "artwork/images/41944.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 328, "image": "artwork/images/41944.jpg", "text": "Does this artwork exist in the form of mosaic? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 329, "image": "artwork/images/42152.jpg", "text": "Is this artwork titled the pieterskerk in leiden? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 330, "image": "artwork/images/42152.jpg", "text": "Is this artwork titled portrait of cardinal reginald pole? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 331, "image": "artwork/images/42288.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 332, "image": "artwork/images/42288.jpg", "text": "Does this artwork exist in the form of stained-glass? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 333, "image": "artwork/images/42303.jpg", "text": "Is this artwork displayed in art museum, cincinnati? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 334, "image": "artwork/images/42303.jpg", "text": "Is this artwork displayed in banca del monte di bologna e ravenna, bologna? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 335, "image": "artwork/images/42401.jpg", "text": "Is this artwork created by waldmüller, fedinand georg? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 336, "image": "artwork/images/42401.jpg", "text": "Is this artwork created by seeman, enoch? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 337, "image": "artwork/images/42447.jpg", "text": "Is this artwork displayed in musée du louvre, paris? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 338, "image": "artwork/images/42447.jpg", "text": "Is this artwork displayed in santa catarina, pisa? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 339, "image": "artwork/images/42585.jpg", "text": "Is this artwork created by werff, pieter van der? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 340, "image": "artwork/images/42585.jpg", "text": "Is this artwork created by domenichini, apollonio? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 341, "image": "artwork/images/42706.jpg", "text": "Is this artwork displayed in musée du louvre, paris? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 342, "image": "artwork/images/42706.jpg", "text": "Is this artwork displayed in galleria nazionale d'arte moderna e contemporanea, rome? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 343, "image": "artwork/images/42796.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 344, "image": "artwork/images/42796.jpg", "text": "Is this artwork displayed in museo di san salvi, florence? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 345, "image": "artwork/images/42857.jpg", "text": "Does this artwork belong to the type of landscape? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 346, "image": "artwork/images/42857.jpg", "text": "Does this artwork belong to the type of study? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 347, "image": "artwork/images/42905.jpg", "text": "Is this artwork created by wit, jacob de? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 348, "image": "artwork/images/42905.jpg", "text": "Is this artwork created by vittone, bernardo antonio? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 349, "image": "artwork/images/42941.jpg", "text": "Is this artwork created by witte, emanuel de? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 350, "image": "artwork/images/42941.jpg", "text": "Is this artwork created by bicci di neri? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 351, "image": "artwork/images/42956.jpg", "text": "Is this artwork titled view of rome with the tiberand castel sant'angelo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 352, "image": "artwork/images/42956.jpg", "text": "Is this artwork titled st bonaventure enters the franciscan order? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 353, "image": "artwork/images/42987.jpg", "text": "Is this artwork created by witz, konrad? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 354, "image": "artwork/images/42987.jpg", "text": "Is this artwork created by christus, petrus? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 355, "image": "artwork/images/43142.jpg", "text": "Does this artwork belong to the type of mythological? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 356, "image": "artwork/images/43142.jpg", "text": "Does this artwork belong to the type of interior? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 357, "image": "artwork/images/43175.jpg", "text": "Is this artwork displayed in private collection? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 358, "image": "artwork/images/43175.jpg", "text": "Is this artwork displayed in smith college museum of art, northampton? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 359, "image": "artwork/images/43349.jpg", "text": "Is this artwork created by zuccarelli, francesco? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 360, "image": "artwork/images/43349.jpg", "text": "Is this artwork created by baccanelli, giovanni antonio di giulio? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 361, "image": "artwork/images/43445.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 362, "image": "artwork/images/43445.jpg", "text": "Does this artwork belong to the type of interior? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 363, "image": "artwork/images/4836.jpg", "text": "Is this artwork displayed in villa cornaro, piombino dese? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 364, "image": "artwork/images/4836.jpg", "text": "Is this artwork displayed in palais saint-vaast, arras? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 365, "image": "artwork/images/5227.jpg", "text": "Is this artwork created by botticelli, sandro? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 366, "image": "artwork/images/5227.jpg", "text": "Is this artwork created by vigri, caterina? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 367, "image": "artwork/images/526.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 368, "image": "artwork/images/526.jpg", "text": "Does this artwork exist in the form of tapestry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 369, "image": "artwork/images/5906.jpg", "text": "Is this artwork created by bronzino, agnolo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 370, "image": "artwork/images/5906.jpg", "text": "Is this artwork created by pellegrino da san daniele? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 371, "image": "artwork/images/6168.jpg", "text": "Does this artwork exist in the form of graphics? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 372, "image": "artwork/images/6168.jpg", "text": "Does this artwork exist in the form of tapestry? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 373, "image": "artwork/images/6297.jpg", "text": "Is this artwork titled peasants making merry outside a tavern 'the swan'? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 374, "image": "artwork/images/6297.jpg", "text": "Is this artwork titled allegory of quietude? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 375, "image": "artwork/images/6478.jpg", "text": "Does this artwork belong to the type of religious? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 376, "image": "artwork/images/6478.jpg", "text": "Does this artwork belong to the type of genre? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 377, "image": "artwork/images/6969.jpg", "text": "Is this artwork titled letizia ramolino bonaparte? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 378, "image": "artwork/images/6969.jpg", "text": "Is this artwork titled job and his daughters? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 379, "image": "artwork/images/701.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 380, "image": "artwork/images/701.jpg", "text": "Does this artwork exist in the form of others? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 381, "image": "artwork/images/7702.jpg", "text": "Is this artwork titled reine lefebvre and margot? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 382, "image": "artwork/images/7702.jpg", "text": "Is this artwork titled fire in the oil depot at san marcuola? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 383, "image": "artwork/images/8101.jpg", "text": "Is this artwork displayed in museu de arte, são paulo? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 384, "image": "artwork/images/8101.jpg", "text": "Is this artwork displayed in national széchényi library, budapest? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 385, "image": "artwork/images/815.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 386, "image": "artwork/images/815.jpg", "text": "Does this artwork exist in the form of furniture? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 387, "image": "artwork/images/8797.jpg", "text": "Is this artwork created by coecke van aelst, pieter? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 388, "image": "artwork/images/8797.jpg", "text": "Is this artwork created by abaquesne, masséot? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 389, "image": "artwork/images/8885.jpg", "text": "Is this artwork displayed in art museum, saint louis? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 390, "image": "artwork/images/8885.jpg", "text": "Is this artwork displayed in museo civico d'arte antica, turin? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 391, "image": "artwork/images/9153.jpg", "text": "Is this artwork displayed in galleria nazionale, parma? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 392, "image": "artwork/images/9153.jpg", "text": "Is this artwork displayed in hospital de san bernardo, seville? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 393, "image": "artwork/images/9395.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 394, "image": "artwork/images/9395.jpg", "text": "Does this artwork exist in the form of stained-glass? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 395, "image": "artwork/images/9405.jpg", "text": "Is this artwork created by courbet, gustave? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 396, "image": "artwork/images/9405.jpg", "text": "Is this artwork created by milani, aureliano? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 397, "image": "artwork/images/9599.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 398, "image": "artwork/images/9599.jpg", "text": "Does this artwork exist in the form of ceramics? Please answer yes or no.", "label": "no", "setting": "artwork"}
+{"question_id": 399, "image": "artwork/images/995.jpg", "text": "Does this artwork exist in the form of sculpture? Please answer yes or no.", "label": "yes", "setting": "artwork"}
+{"question_id": 400, "image": "artwork/images/995.jpg", "text": "Does this artwork exist in the form of painting? Please answer yes or no.", "label": "no", "setting": "artwork"}

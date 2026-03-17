@@ -1,0 +1,16 @@
+SHIELD
+Copyright 2025 Yiyang Huang
+
+This product includes software developed at Northeastern University.
+
+This project incorporates code from the following open-source projects:
+
+- LLaVA (https://github.com/haotian-liu/LLaVA)
+  Copyright 2023 Haotian Liu
+  Licensed under the Apache License, Version 2.0
+
+- VCD (https://github.com/DAMO-NLP-SG/VCD)
+  Licensed under the Apache License, Version 2.0
+
+- CHAIR evaluation (https://github.com/LisaAnne/Hallucination)
+  Modified by Maxlinn for Python 3 compatibility and standalone usage

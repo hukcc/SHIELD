@@ -1,0 +1,400 @@
+{"question_id": 1, "image": "scene/images/Places365_val_00000001.jpg", "text": "Is this picture captured in a place of greenhouse indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 2, "image": "scene/images/Places365_val_00000001.jpg", "text": "Is this picture captured in a place of waiting room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 3, "image": "scene/images/Places365_val_00000002.jpg", "text": "Is this photo taken in a place of wet bar? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 4, "image": "scene/images/Places365_val_00000002.jpg", "text": "Is this photo taken in a place of stage indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 5, "image": "scene/images/Places365_val_00000003.jpg", "text": "Is this picture captured in a place of clean room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 6, "image": "scene/images/Places365_val_00000003.jpg", "text": "Is this picture captured in a place of bookstore? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 7, "image": "scene/images/Places365_val_00000004.jpg", "text": "Is this picture captured in a place of golf course? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 8, "image": "scene/images/Places365_val_00000004.jpg", "text": "Is this picture captured in a place of computer room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 9, "image": "scene/images/Places365_val_00000005.jpg", "text": "Is this picture captured in a place of rock arch? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 10, "image": "scene/images/Places365_val_00000005.jpg", "text": "Is this picture captured in a place of desert sand? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 11, "image": "scene/images/Places365_val_00000006.jpg", "text": "Is this photo taken in a place of corridor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 12, "image": "scene/images/Places365_val_00000006.jpg", "text": "Is this photo taken in a place of jail cell? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 13, "image": "scene/images/Places365_val_00000007.jpg", "text": "Does this image describe a place of canyon? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 14, "image": "scene/images/Places365_val_00000007.jpg", "text": "Does this image describe a place of basement? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 15, "image": "scene/images/Places365_val_00000008.jpg", "text": "Is this picture captured in a place of dining room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 16, "image": "scene/images/Places365_val_00000008.jpg", "text": "Is this picture captured in a place of ball pit? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 17, "image": "scene/images/Places365_val_00000009.jpg", "text": "Is this picture captured in a place of forest broadleaf? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 18, "image": "scene/images/Places365_val_00000009.jpg", "text": "Is this picture captured in a place of swamp? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 19, "image": "scene/images/Places365_val_00000010.jpg", "text": "Does this image describe a place of shopping mall indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 20, "image": "scene/images/Places365_val_00000010.jpg", "text": "Does this image describe a place of mosque outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 21, "image": "scene/images/Places365_val_00000011.jpg", "text": "Is this photo taken in a place of baseball field? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 22, "image": "scene/images/Places365_val_00000011.jpg", "text": "Is this photo taken in a place of bus station indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 23, "image": "scene/images/Places365_val_00000012.jpg", "text": "Does this image describe a place of campus? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 24, "image": "scene/images/Places365_val_00000012.jpg", "text": "Does this image describe a place of sandbox? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 25, "image": "scene/images/Places365_val_00000013.jpg", "text": "Is this picture captured in a place of beach house? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 26, "image": "scene/images/Places365_val_00000013.jpg", "text": "Is this picture captured in a place of alcove? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 27, "image": "scene/images/Places365_val_00000014.jpg", "text": "Does this image describe a place of art gallery? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 28, "image": "scene/images/Places365_val_00000014.jpg", "text": "Does this image describe a place of volleyball court outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 29, "image": "scene/images/Places365_val_00000015.jpg", "text": "Does this image describe a place of bus interior? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 30, "image": "scene/images/Places365_val_00000015.jpg", "text": "Does this image describe a place of butchers shop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 31, "image": "scene/images/Places365_val_00000016.jpg", "text": "Does this image describe a place of gymnasium indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 32, "image": "scene/images/Places365_val_00000016.jpg", "text": "Does this image describe a place of crevasse? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 33, "image": "scene/images/Places365_val_00000017.jpg", "text": "Is this picture captured in a place of glacier? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 34, "image": "scene/images/Places365_val_00000017.jpg", "text": "Is this picture captured in a place of fishpond? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 35, "image": "scene/images/Places365_val_00000018.jpg", "text": "Is this photo taken in a place of nursing home? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 36, "image": "scene/images/Places365_val_00000018.jpg", "text": "Is this photo taken in a place of server room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 37, "image": "scene/images/Places365_val_00000019.jpg", "text": "Does this image describe a place of storage room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 38, "image": "scene/images/Places365_val_00000019.jpg", "text": "Does this image describe a place of aquarium? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 39, "image": "scene/images/Places365_val_00000020.jpg", "text": "Is this picture captured in a place of florist shop indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 40, "image": "scene/images/Places365_val_00000020.jpg", "text": "Is this picture captured in a place of office? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 41, "image": "scene/images/Places365_val_00000021.jpg", "text": "Is this picture captured in a place of restaurant kitchen? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 42, "image": "scene/images/Places365_val_00000021.jpg", "text": "Is this picture captured in a place of garage outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 43, "image": "scene/images/Places365_val_00000022.jpg", "text": "Is this photo taken in a place of recreation room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 44, "image": "scene/images/Places365_val_00000022.jpg", "text": "Is this photo taken in a place of runway? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 45, "image": "scene/images/Places365_val_00000023.jpg", "text": "Does this image describe a place of schoolhouse? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 46, "image": "scene/images/Places365_val_00000023.jpg", "text": "Does this image describe a place of raft? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 47, "image": "scene/images/Places365_val_00000024.jpg", "text": "Does this image describe a place of amusement arcade? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 48, "image": "scene/images/Places365_val_00000024.jpg", "text": "Does this image describe a place of medina? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 49, "image": "scene/images/Places365_val_00000025.jpg", "text": "Is this photo taken in a place of ocean? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 50, "image": "scene/images/Places365_val_00000025.jpg", "text": "Is this photo taken in a place of sauna? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 51, "image": "scene/images/Places365_val_00000026.jpg", "text": "Does this image describe a place of river? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 52, "image": "scene/images/Places365_val_00000026.jpg", "text": "Does this image describe a place of corral? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 53, "image": "scene/images/Places365_val_00000027.jpg", "text": "Is this photo taken in a place of pub indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 54, "image": "scene/images/Places365_val_00000027.jpg", "text": "Is this photo taken in a place of basement? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 55, "image": "scene/images/Places365_val_00000028.jpg", "text": "Is this picture captured in a place of lecture room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 56, "image": "scene/images/Places365_val_00000028.jpg", "text": "Is this picture captured in a place of aqueduct? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 57, "image": "scene/images/Places365_val_00000029.jpg", "text": "Is this photo taken in a place of japanese garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 58, "image": "scene/images/Places365_val_00000029.jpg", "text": "Is this photo taken in a place of pharmacy? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 59, "image": "scene/images/Places365_val_00000030.jpg", "text": "Does this image describe a place of motel? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 60, "image": "scene/images/Places365_val_00000030.jpg", "text": "Does this image describe a place of toyshop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 61, "image": "scene/images/Places365_val_00000031.jpg", "text": "Does this image describe a place of assembly line? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 62, "image": "scene/images/Places365_val_00000031.jpg", "text": "Does this image describe a place of beer garden? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 63, "image": "scene/images/Places365_val_00000032.jpg", "text": "Does this image describe a place of campsite? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 64, "image": "scene/images/Places365_val_00000032.jpg", "text": "Does this image describe a place of elevator shaft? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 65, "image": "scene/images/Places365_val_00000033.jpg", "text": "Is this photo taken in a place of florist shop indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 66, "image": "scene/images/Places365_val_00000033.jpg", "text": "Is this photo taken in a place of sushi bar? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 67, "image": "scene/images/Places365_val_00000034.jpg", "text": "Does this image describe a place of racecourse? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 68, "image": "scene/images/Places365_val_00000034.jpg", "text": "Does this image describe a place of galley? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 69, "image": "scene/images/Places365_val_00000035.jpg", "text": "Is this photo taken in a place of kennel outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 70, "image": "scene/images/Places365_val_00000035.jpg", "text": "Is this photo taken in a place of bathroom? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 71, "image": "scene/images/Places365_val_00000036.jpg", "text": "Is this picture captured in a place of bus interior? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 72, "image": "scene/images/Places365_val_00000036.jpg", "text": "Is this picture captured in a place of mansion? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 73, "image": "scene/images/Places365_val_00000037.jpg", "text": "Does this image describe a place of dressing room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 74, "image": "scene/images/Places365_val_00000037.jpg", "text": "Does this image describe a place of chemistry lab? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 75, "image": "scene/images/Places365_val_00000038.jpg", "text": "Does this image describe a place of wind farm? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 76, "image": "scene/images/Places365_val_00000038.jpg", "text": "Does this image describe a place of volleyball court outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 77, "image": "scene/images/Places365_val_00000039.jpg", "text": "Is this picture captured in a place of auto factory? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 78, "image": "scene/images/Places365_val_00000039.jpg", "text": "Is this picture captured in a place of tree farm? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 79, "image": "scene/images/Places365_val_00000040.jpg", "text": "Is this picture captured in a place of beach? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 80, "image": "scene/images/Places365_val_00000040.jpg", "text": "Is this picture captured in a place of library outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 81, "image": "scene/images/Places365_val_00000041.jpg", "text": "Is this photo taken in a place of mountain? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 82, "image": "scene/images/Places365_val_00000041.jpg", "text": "Is this photo taken in a place of formal garden? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 83, "image": "scene/images/Places365_val_00000042.jpg", "text": "Does this image describe a place of pavilion? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 84, "image": "scene/images/Places365_val_00000042.jpg", "text": "Does this image describe a place of stable? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 85, "image": "scene/images/Places365_val_00000043.jpg", "text": "Does this image describe a place of tree house? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 86, "image": "scene/images/Places365_val_00000043.jpg", "text": "Does this image describe a place of patio? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 87, "image": "scene/images/Places365_val_00000044.jpg", "text": "Is this photo taken in a place of coffee shop? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 88, "image": "scene/images/Places365_val_00000044.jpg", "text": "Is this photo taken in a place of elevator lobby? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 89, "image": "scene/images/Places365_val_00000045.jpg", "text": "Is this photo taken in a place of skyscraper? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 90, "image": "scene/images/Places365_val_00000045.jpg", "text": "Is this photo taken in a place of forest broadleaf? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 91, "image": "scene/images/Places365_val_00000046.jpg", "text": "Does this image describe a place of street? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 92, "image": "scene/images/Places365_val_00000046.jpg", "text": "Does this image describe a place of golf course? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 93, "image": "scene/images/Places365_val_00000047.jpg", "text": "Is this picture captured in a place of alley? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 94, "image": "scene/images/Places365_val_00000047.jpg", "text": "Is this picture captured in a place of boardwalk? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 95, "image": "scene/images/Places365_val_00000048.jpg", "text": "Is this photo taken in a place of supermarket? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 96, "image": "scene/images/Places365_val_00000048.jpg", "text": "Is this photo taken in a place of creek? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 97, "image": "scene/images/Places365_val_00000049.jpg", "text": "Is this picture captured in a place of arena hockey? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 98, "image": "scene/images/Places365_val_00000049.jpg", "text": "Is this picture captured in a place of ski slope? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 99, "image": "scene/images/Places365_val_00000050.jpg", "text": "Is this picture captured in a place of zen garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 100, "image": "scene/images/Places365_val_00000050.jpg", "text": "Is this picture captured in a place of bazaar indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 101, "image": "scene/images/Places365_val_00000051.jpg", "text": "Is this picture captured in a place of library indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 102, "image": "scene/images/Places365_val_00000051.jpg", "text": "Is this picture captured in a place of orchard? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 103, "image": "scene/images/Places365_val_00000052.jpg", "text": "Is this photo taken in a place of ice skating rink indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 104, "image": "scene/images/Places365_val_00000052.jpg", "text": "Is this photo taken in a place of wind farm? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 105, "image": "scene/images/Places365_val_00000053.jpg", "text": "Is this picture captured in a place of arena hockey? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 106, "image": "scene/images/Places365_val_00000053.jpg", "text": "Is this picture captured in a place of loading dock? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 107, "image": "scene/images/Places365_val_00000054.jpg", "text": "Does this image describe a place of chalet? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 108, "image": "scene/images/Places365_val_00000054.jpg", "text": "Does this image describe a place of tower? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 109, "image": "scene/images/Places365_val_00000055.jpg", "text": "Does this image describe a place of bedchamber? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 110, "image": "scene/images/Places365_val_00000055.jpg", "text": "Does this image describe a place of music studio? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 111, "image": "scene/images/Places365_val_00000056.jpg", "text": "Is this photo taken in a place of botanical garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 112, "image": "scene/images/Places365_val_00000056.jpg", "text": "Is this photo taken in a place of legislative chamber? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 113, "image": "scene/images/Places365_val_00000057.jpg", "text": "Is this picture captured in a place of galley? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 114, "image": "scene/images/Places365_val_00000057.jpg", "text": "Is this picture captured in a place of physics laboratory? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 115, "image": "scene/images/Places365_val_00000058.jpg", "text": "Does this image describe a place of department store? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 116, "image": "scene/images/Places365_val_00000058.jpg", "text": "Does this image describe a place of rope bridge? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 117, "image": "scene/images/Places365_val_00000059.jpg", "text": "Is this photo taken in a place of schoolhouse? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 118, "image": "scene/images/Places365_val_00000059.jpg", "text": "Is this photo taken in a place of hangar outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 119, "image": "scene/images/Places365_val_00000060.jpg", "text": "Is this photo taken in a place of atrium public? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 120, "image": "scene/images/Places365_val_00000060.jpg", "text": "Is this photo taken in a place of subway station platform? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 121, "image": "scene/images/Places365_val_00000061.jpg", "text": "Is this photo taken in a place of dam? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 122, "image": "scene/images/Places365_val_00000061.jpg", "text": "Is this photo taken in a place of ice skating rink indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 123, "image": "scene/images/Places365_val_00000062.jpg", "text": "Does this image describe a place of army base? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 124, "image": "scene/images/Places365_val_00000062.jpg", "text": "Does this image describe a place of train station platform? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 125, "image": "scene/images/Places365_val_00000063.jpg", "text": "Does this image describe a place of gas station? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 126, "image": "scene/images/Places365_val_00000063.jpg", "text": "Does this image describe a place of doorway outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 127, "image": "scene/images/Places365_val_00000064.jpg", "text": "Does this image describe a place of ballroom? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 128, "image": "scene/images/Places365_val_00000064.jpg", "text": "Does this image describe a place of corn field? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 129, "image": "scene/images/Places365_val_00000065.jpg", "text": "Does this image describe a place of biology laboratory? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 130, "image": "scene/images/Places365_val_00000065.jpg", "text": "Does this image describe a place of candy store? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 131, "image": "scene/images/Places365_val_00000066.jpg", "text": "Does this image describe a place of pantry? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 132, "image": "scene/images/Places365_val_00000066.jpg", "text": "Does this image describe a place of lighthouse? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 133, "image": "scene/images/Places365_val_00000067.jpg", "text": "Is this picture captured in a place of greenhouse indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 134, "image": "scene/images/Places365_val_00000067.jpg", "text": "Is this picture captured in a place of pasture? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 135, "image": "scene/images/Places365_val_00000068.jpg", "text": "Is this photo taken in a place of kasbah? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 136, "image": "scene/images/Places365_val_00000068.jpg", "text": "Is this photo taken in a place of swimming hole? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 137, "image": "scene/images/Places365_val_00000069.jpg", "text": "Is this picture captured in a place of mausoleum? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 138, "image": "scene/images/Places365_val_00000069.jpg", "text": "Is this picture captured in a place of alcove? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 139, "image": "scene/images/Places365_val_00000070.jpg", "text": "Is this picture captured in a place of booth indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 140, "image": "scene/images/Places365_val_00000070.jpg", "text": "Is this picture captured in a place of bazaar indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 141, "image": "scene/images/Places365_val_00000071.jpg", "text": "Is this picture captured in a place of youth hostel? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 142, "image": "scene/images/Places365_val_00000071.jpg", "text": "Is this picture captured in a place of landfill? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 143, "image": "scene/images/Places365_val_00000072.jpg", "text": "Does this image describe a place of fire escape? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 144, "image": "scene/images/Places365_val_00000072.jpg", "text": "Does this image describe a place of playroom? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 145, "image": "scene/images/Places365_val_00000073.jpg", "text": "Is this photo taken in a place of rice paddy? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 146, "image": "scene/images/Places365_val_00000073.jpg", "text": "Is this photo taken in a place of bus station indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 147, "image": "scene/images/Places365_val_00000074.jpg", "text": "Is this photo taken in a place of mausoleum? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 148, "image": "scene/images/Places365_val_00000074.jpg", "text": "Is this photo taken in a place of train station platform? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 149, "image": "scene/images/Places365_val_00000075.jpg", "text": "Is this photo taken in a place of entrance hall? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 150, "image": "scene/images/Places365_val_00000075.jpg", "text": "Is this photo taken in a place of residential neighborhood? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 151, "image": "scene/images/Places365_val_00000076.jpg", "text": "Is this photo taken in a place of bakery shop? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 152, "image": "scene/images/Places365_val_00000076.jpg", "text": "Is this photo taken in a place of doorway outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 153, "image": "scene/images/Places365_val_00000077.jpg", "text": "Does this image describe a place of escalator indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 154, "image": "scene/images/Places365_val_00000077.jpg", "text": "Does this image describe a place of ice shelf? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 155, "image": "scene/images/Places365_val_00000078.jpg", "text": "Is this picture captured in a place of elevator shaft? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 156, "image": "scene/images/Places365_val_00000078.jpg", "text": "Is this picture captured in a place of fire escape? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 157, "image": "scene/images/Places365_val_00000079.jpg", "text": "Is this picture captured in a place of industrial area? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 158, "image": "scene/images/Places365_val_00000079.jpg", "text": "Is this picture captured in a place of botanical garden? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 159, "image": "scene/images/Places365_val_00000080.jpg", "text": "Is this photo taken in a place of escalator indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 160, "image": "scene/images/Places365_val_00000080.jpg", "text": "Is this photo taken in a place of coffee shop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 161, "image": "scene/images/Places365_val_00000081.jpg", "text": "Does this image describe a place of operating room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 162, "image": "scene/images/Places365_val_00000081.jpg", "text": "Does this image describe a place of house? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 163, "image": "scene/images/Places365_val_00000082.jpg", "text": "Is this photo taken in a place of mosque outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 164, "image": "scene/images/Places365_val_00000082.jpg", "text": "Is this photo taken in a place of recreation room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 165, "image": "scene/images/Places365_val_00000083.jpg", "text": "Is this photo taken in a place of cottage? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 166, "image": "scene/images/Places365_val_00000083.jpg", "text": "Is this photo taken in a place of assembly line? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 167, "image": "scene/images/Places365_val_00000084.jpg", "text": "Does this image describe a place of courtyard? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 168, "image": "scene/images/Places365_val_00000084.jpg", "text": "Does this image describe a place of greenhouse outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 169, "image": "scene/images/Places365_val_00000085.jpg", "text": "Is this photo taken in a place of flea market indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 170, "image": "scene/images/Places365_val_00000085.jpg", "text": "Is this photo taken in a place of pavilion? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 171, "image": "scene/images/Places365_val_00000086.jpg", "text": "Does this image describe a place of banquet hall? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 172, "image": "scene/images/Places365_val_00000086.jpg", "text": "Does this image describe a place of storage room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 173, "image": "scene/images/Places365_val_00000087.jpg", "text": "Is this photo taken in a place of auto factory? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 174, "image": "scene/images/Places365_val_00000087.jpg", "text": "Is this photo taken in a place of motel? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 175, "image": "scene/images/Places365_val_00000088.jpg", "text": "Is this photo taken in a place of cockpit? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 176, "image": "scene/images/Places365_val_00000088.jpg", "text": "Is this photo taken in a place of gift shop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 177, "image": "scene/images/Places365_val_00000089.jpg", "text": "Is this photo taken in a place of martial arts gym? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 178, "image": "scene/images/Places365_val_00000089.jpg", "text": "Is this photo taken in a place of atrium public? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 179, "image": "scene/images/Places365_val_00000090.jpg", "text": "Is this picture captured in a place of general store outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 180, "image": "scene/images/Places365_val_00000090.jpg", "text": "Is this picture captured in a place of bazaar outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 181, "image": "scene/images/Places365_val_00000091.jpg", "text": "Is this photo taken in a place of motel? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 182, "image": "scene/images/Places365_val_00000091.jpg", "text": "Is this photo taken in a place of chemistry lab? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 183, "image": "scene/images/Places365_val_00000092.jpg", "text": "Is this photo taken in a place of playground? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 184, "image": "scene/images/Places365_val_00000092.jpg", "text": "Is this photo taken in a place of snowfield? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 185, "image": "scene/images/Places365_val_00000093.jpg", "text": "Is this picture captured in a place of basement? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 186, "image": "scene/images/Places365_val_00000093.jpg", "text": "Is this picture captured in a place of jewelry shop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 187, "image": "scene/images/Places365_val_00000094.jpg", "text": "Is this picture captured in a place of playroom? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 188, "image": "scene/images/Places365_val_00000094.jpg", "text": "Is this picture captured in a place of pier? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 189, "image": "scene/images/Places365_val_00000095.jpg", "text": "Is this photo taken in a place of fabric store? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 190, "image": "scene/images/Places365_val_00000095.jpg", "text": "Is this photo taken in a place of beauty salon? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 191, "image": "scene/images/Places365_val_00000096.jpg", "text": "Is this picture captured in a place of forest path? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 192, "image": "scene/images/Places365_val_00000096.jpg", "text": "Is this picture captured in a place of balcony interior? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 193, "image": "scene/images/Places365_val_00000097.jpg", "text": "Does this image describe a place of hangar indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 194, "image": "scene/images/Places365_val_00000097.jpg", "text": "Does this image describe a place of vegetable garden? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 195, "image": "scene/images/Places365_val_00000098.jpg", "text": "Does this image describe a place of crosswalk? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 196, "image": "scene/images/Places365_val_00000098.jpg", "text": "Does this image describe a place of snowfield? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 197, "image": "scene/images/Places365_val_00000099.jpg", "text": "Does this image describe a place of physics laboratory? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 198, "image": "scene/images/Places365_val_00000099.jpg", "text": "Does this image describe a place of stage indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 199, "image": "scene/images/Places365_val_00000100.jpg", "text": "Is this picture captured in a place of pub indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 200, "image": "scene/images/Places365_val_00000100.jpg", "text": "Is this picture captured in a place of pier? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 201, "image": "scene/images/Places365_val_00000101.jpg", "text": "Is this photo taken in a place of schoolhouse? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 202, "image": "scene/images/Places365_val_00000101.jpg", "text": "Is this photo taken in a place of vineyard? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 203, "image": "scene/images/Places365_val_00000102.jpg", "text": "Is this photo taken in a place of industrial area? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 204, "image": "scene/images/Places365_val_00000102.jpg", "text": "Is this photo taken in a place of street? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 205, "image": "scene/images/Places365_val_00000103.jpg", "text": "Is this picture captured in a place of baseball field? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 206, "image": "scene/images/Places365_val_00000103.jpg", "text": "Is this picture captured in a place of airfield? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 207, "image": "scene/images/Places365_val_00000104.jpg", "text": "Is this picture captured in a place of ice floe? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 208, "image": "scene/images/Places365_val_00000104.jpg", "text": "Is this picture captured in a place of kindergarden classroom? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 209, "image": "scene/images/Places365_val_00000105.jpg", "text": "Is this picture captured in a place of train interior? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 210, "image": "scene/images/Places365_val_00000105.jpg", "text": "Is this picture captured in a place of movie theater indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 211, "image": "scene/images/Places365_val_00000106.jpg", "text": "Is this picture captured in a place of desert sand? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 212, "image": "scene/images/Places365_val_00000106.jpg", "text": "Is this picture captured in a place of burial chamber? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 213, "image": "scene/images/Places365_val_00000107.jpg", "text": "Is this photo taken in a place of castle? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 214, "image": "scene/images/Places365_val_00000107.jpg", "text": "Is this photo taken in a place of computer room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 215, "image": "scene/images/Places365_val_00000108.jpg", "text": "Does this image describe a place of burial chamber? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 216, "image": "scene/images/Places365_val_00000108.jpg", "text": "Does this image describe a place of oilrig? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 217, "image": "scene/images/Places365_val_00000109.jpg", "text": "Is this photo taken in a place of nursing home? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 218, "image": "scene/images/Places365_val_00000109.jpg", "text": "Is this photo taken in a place of amusement park? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 219, "image": "scene/images/Places365_val_00000110.jpg", "text": "Does this image describe a place of church indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 220, "image": "scene/images/Places365_val_00000110.jpg", "text": "Does this image describe a place of general store outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 221, "image": "scene/images/Places365_val_00000111.jpg", "text": "Is this picture captured in a place of palace? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 222, "image": "scene/images/Places365_val_00000111.jpg", "text": "Is this picture captured in a place of tree house? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 223, "image": "scene/images/Places365_val_00000112.jpg", "text": "Does this image describe a place of bus station indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 224, "image": "scene/images/Places365_val_00000112.jpg", "text": "Does this image describe a place of hardware store? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 225, "image": "scene/images/Places365_val_00000113.jpg", "text": "Is this picture captured in a place of atrium public? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 226, "image": "scene/images/Places365_val_00000113.jpg", "text": "Is this picture captured in a place of music studio? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 227, "image": "scene/images/Places365_val_00000114.jpg", "text": "Is this photo taken in a place of butte? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 228, "image": "scene/images/Places365_val_00000114.jpg", "text": "Is this photo taken in a place of valley? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 229, "image": "scene/images/Places365_val_00000115.jpg", "text": "Is this picture captured in a place of zen garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 230, "image": "scene/images/Places365_val_00000115.jpg", "text": "Is this picture captured in a place of banquet hall? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 231, "image": "scene/images/Places365_val_00000116.jpg", "text": "Is this picture captured in a place of racecourse? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 232, "image": "scene/images/Places365_val_00000116.jpg", "text": "Is this picture captured in a place of basketball court indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 233, "image": "scene/images/Places365_val_00000117.jpg", "text": "Is this picture captured in a place of cliff? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 234, "image": "scene/images/Places365_val_00000117.jpg", "text": "Is this picture captured in a place of sauna? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 235, "image": "scene/images/Places365_val_00000118.jpg", "text": "Is this photo taken in a place of laundromat? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 236, "image": "scene/images/Places365_val_00000118.jpg", "text": "Is this photo taken in a place of archive? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 237, "image": "scene/images/Places365_val_00000119.jpg", "text": "Does this image describe a place of wave? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 238, "image": "scene/images/Places365_val_00000119.jpg", "text": "Does this image describe a place of shed? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 239, "image": "scene/images/Places365_val_00000120.jpg", "text": "Is this photo taken in a place of legislative chamber? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 240, "image": "scene/images/Places365_val_00000120.jpg", "text": "Is this photo taken in a place of nursery? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 241, "image": "scene/images/Places365_val_00000121.jpg", "text": "Is this photo taken in a place of elevator shaft? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 242, "image": "scene/images/Places365_val_00000121.jpg", "text": "Is this photo taken in a place of berth? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 243, "image": "scene/images/Places365_val_00000122.jpg", "text": "Is this photo taken in a place of hayfield? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 244, "image": "scene/images/Places365_val_00000122.jpg", "text": "Is this photo taken in a place of skyscraper? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 245, "image": "scene/images/Places365_val_00000123.jpg", "text": "Is this photo taken in a place of hospital room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 246, "image": "scene/images/Places365_val_00000123.jpg", "text": "Is this photo taken in a place of mosque outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 247, "image": "scene/images/Places365_val_00000124.jpg", "text": "Does this image describe a place of swimming hole? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 248, "image": "scene/images/Places365_val_00000124.jpg", "text": "Does this image describe a place of television room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 249, "image": "scene/images/Places365_val_00000125.jpg", "text": "Is this picture captured in a place of biology laboratory? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 250, "image": "scene/images/Places365_val_00000125.jpg", "text": "Is this picture captured in a place of lake natural? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 251, "image": "scene/images/Places365_val_00000126.jpg", "text": "Is this picture captured in a place of church indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 252, "image": "scene/images/Places365_val_00000126.jpg", "text": "Is this picture captured in a place of server room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 253, "image": "scene/images/Places365_val_00000127.jpg", "text": "Is this picture captured in a place of temple asia? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 254, "image": "scene/images/Places365_val_00000127.jpg", "text": "Is this picture captured in a place of ball pit? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 255, "image": "scene/images/Places365_val_00000128.jpg", "text": "Is this photo taken in a place of landfill? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 256, "image": "scene/images/Places365_val_00000128.jpg", "text": "Is this photo taken in a place of viaduct? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 257, "image": "scene/images/Places365_val_00000129.jpg", "text": "Does this image describe a place of arena hockey? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 258, "image": "scene/images/Places365_val_00000129.jpg", "text": "Does this image describe a place of clothing store? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 259, "image": "scene/images/Places365_val_00000130.jpg", "text": "Is this photo taken in a place of baseball field? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 260, "image": "scene/images/Places365_val_00000130.jpg", "text": "Is this photo taken in a place of art gallery? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 261, "image": "scene/images/Places365_val_00000131.jpg", "text": "Is this picture captured in a place of gazebo exterior? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 262, "image": "scene/images/Places365_val_00000131.jpg", "text": "Is this picture captured in a place of driveway? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 263, "image": "scene/images/Places365_val_00000132.jpg", "text": "Does this image describe a place of greenhouse outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 264, "image": "scene/images/Places365_val_00000132.jpg", "text": "Does this image describe a place of stage indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 265, "image": "scene/images/Places365_val_00000133.jpg", "text": "Is this picture captured in a place of beauty salon? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 266, "image": "scene/images/Places365_val_00000133.jpg", "text": "Is this picture captured in a place of junkyard? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 267, "image": "scene/images/Places365_val_00000134.jpg", "text": "Does this image describe a place of ice shelf? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 268, "image": "scene/images/Places365_val_00000134.jpg", "text": "Does this image describe a place of vegetable garden? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 269, "image": "scene/images/Places365_val_00000135.jpg", "text": "Is this picture captured in a place of islet? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 270, "image": "scene/images/Places365_val_00000135.jpg", "text": "Is this picture captured in a place of recreation room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 271, "image": "scene/images/Places365_val_00000136.jpg", "text": "Is this picture captured in a place of railroad track? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 272, "image": "scene/images/Places365_val_00000136.jpg", "text": "Is this picture captured in a place of department store? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 273, "image": "scene/images/Places365_val_00000137.jpg", "text": "Is this photo taken in a place of bazaar outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 274, "image": "scene/images/Places365_val_00000137.jpg", "text": "Is this photo taken in a place of office? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 275, "image": "scene/images/Places365_val_00000138.jpg", "text": "Is this photo taken in a place of basement? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 276, "image": "scene/images/Places365_val_00000138.jpg", "text": "Is this photo taken in a place of banquet hall? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 277, "image": "scene/images/Places365_val_00000139.jpg", "text": "Is this picture captured in a place of television studio? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 278, "image": "scene/images/Places365_val_00000139.jpg", "text": "Is this picture captured in a place of general store indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 279, "image": "scene/images/Places365_val_00000140.jpg", "text": "Is this picture captured in a place of mezzanine? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 280, "image": "scene/images/Places365_val_00000140.jpg", "text": "Is this picture captured in a place of bedroom? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 281, "image": "scene/images/Places365_val_00000141.jpg", "text": "Does this image describe a place of roof garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 282, "image": "scene/images/Places365_val_00000141.jpg", "text": "Does this image describe a place of television room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 283, "image": "scene/images/Places365_val_00000142.jpg", "text": "Does this image describe a place of restaurant kitchen? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 284, "image": "scene/images/Places365_val_00000142.jpg", "text": "Does this image describe a place of fabric store? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 285, "image": "scene/images/Places365_val_00000143.jpg", "text": "Is this photo taken in a place of house? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 286, "image": "scene/images/Places365_val_00000143.jpg", "text": "Is this photo taken in a place of swimming hole? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 287, "image": "scene/images/Places365_val_00000144.jpg", "text": "Is this picture captured in a place of vineyard? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 288, "image": "scene/images/Places365_val_00000144.jpg", "text": "Is this picture captured in a place of castle? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 289, "image": "scene/images/Places365_val_00000145.jpg", "text": "Is this picture captured in a place of driveway? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 290, "image": "scene/images/Places365_val_00000145.jpg", "text": "Is this picture captured in a place of badlands? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 291, "image": "scene/images/Places365_val_00000146.jpg", "text": "Does this image describe a place of chemistry lab? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 292, "image": "scene/images/Places365_val_00000146.jpg", "text": "Does this image describe a place of industrial area? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 293, "image": "scene/images/Places365_val_00000147.jpg", "text": "Does this image describe a place of cabin outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 294, "image": "scene/images/Places365_val_00000147.jpg", "text": "Does this image describe a place of creek? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 295, "image": "scene/images/Places365_val_00000148.jpg", "text": "Is this photo taken in a place of restaurant? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 296, "image": "scene/images/Places365_val_00000148.jpg", "text": "Is this photo taken in a place of apartment building outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 297, "image": "scene/images/Places365_val_00000149.jpg", "text": "Is this picture captured in a place of auditorium? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 298, "image": "scene/images/Places365_val_00000149.jpg", "text": "Is this picture captured in a place of rock arch? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 299, "image": "scene/images/Places365_val_00000150.jpg", "text": "Is this photo taken in a place of street? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 300, "image": "scene/images/Places365_val_00000150.jpg", "text": "Is this photo taken in a place of toyshop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 301, "image": "scene/images/Places365_val_00000151.jpg", "text": "Does this image describe a place of lagoon? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 302, "image": "scene/images/Places365_val_00000151.jpg", "text": "Does this image describe a place of aquarium? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 303, "image": "scene/images/Places365_val_00000152.jpg", "text": "Is this picture captured in a place of hangar indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 304, "image": "scene/images/Places365_val_00000152.jpg", "text": "Is this picture captured in a place of street? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 305, "image": "scene/images/Places365_val_00000153.jpg", "text": "Does this image describe a place of bar? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 306, "image": "scene/images/Places365_val_00000153.jpg", "text": "Does this image describe a place of tree house? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 307, "image": "scene/images/Places365_val_00000154.jpg", "text": "Is this picture captured in a place of classroom? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 308, "image": "scene/images/Places365_val_00000154.jpg", "text": "Is this picture captured in a place of wheat field? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 309, "image": "scene/images/Places365_val_00000155.jpg", "text": "Does this image describe a place of creek? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 310, "image": "scene/images/Places365_val_00000155.jpg", "text": "Does this image describe a place of youth hostel? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 311, "image": "scene/images/Places365_val_00000156.jpg", "text": "Does this image describe a place of stable? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 312, "image": "scene/images/Places365_val_00000156.jpg", "text": "Does this image describe a place of junkyard? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 313, "image": "scene/images/Places365_val_00000157.jpg", "text": "Is this picture captured in a place of swamp? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 314, "image": "scene/images/Places365_val_00000157.jpg", "text": "Is this picture captured in a place of village? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 315, "image": "scene/images/Places365_val_00000158.jpg", "text": "Is this picture captured in a place of ice shelf? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 316, "image": "scene/images/Places365_val_00000158.jpg", "text": "Is this picture captured in a place of motel? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 317, "image": "scene/images/Places365_val_00000159.jpg", "text": "Is this picture captured in a place of train interior? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 318, "image": "scene/images/Places365_val_00000159.jpg", "text": "Is this picture captured in a place of jewelry shop? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 319, "image": "scene/images/Places365_val_00000160.jpg", "text": "Does this image describe a place of windmill? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 320, "image": "scene/images/Places365_val_00000160.jpg", "text": "Does this image describe a place of lake natural? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 321, "image": "scene/images/Places365_val_00000161.jpg", "text": "Is this photo taken in a place of archive? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 322, "image": "scene/images/Places365_val_00000161.jpg", "text": "Is this photo taken in a place of village? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 323, "image": "scene/images/Places365_val_00000162.jpg", "text": "Does this image describe a place of train station platform? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 324, "image": "scene/images/Places365_val_00000162.jpg", "text": "Does this image describe a place of manufactured home? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 325, "image": "scene/images/Places365_val_00000163.jpg", "text": "Is this photo taken in a place of chalet? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 326, "image": "scene/images/Places365_val_00000163.jpg", "text": "Is this photo taken in a place of throne room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 327, "image": "scene/images/Places365_val_00000164.jpg", "text": "Does this image describe a place of lake natural? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 328, "image": "scene/images/Places365_val_00000164.jpg", "text": "Does this image describe a place of athletic field outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 329, "image": "scene/images/Places365_val_00000165.jpg", "text": "Is this picture captured in a place of playground? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 330, "image": "scene/images/Places365_val_00000165.jpg", "text": "Is this picture captured in a place of viaduct? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 331, "image": "scene/images/Places365_val_00000166.jpg", "text": "Is this photo taken in a place of dorm room? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 332, "image": "scene/images/Places365_val_00000166.jpg", "text": "Is this photo taken in a place of ski resort? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 333, "image": "scene/images/Places365_val_00000167.jpg", "text": "Is this picture captured in a place of flea market indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 334, "image": "scene/images/Places365_val_00000167.jpg", "text": "Is this picture captured in a place of cliff? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 335, "image": "scene/images/Places365_val_00000168.jpg", "text": "Does this image describe a place of airplane cabin? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 336, "image": "scene/images/Places365_val_00000168.jpg", "text": "Does this image describe a place of rock arch? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 337, "image": "scene/images/Places365_val_00000169.jpg", "text": "Is this picture captured in a place of drugstore? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 338, "image": "scene/images/Places365_val_00000169.jpg", "text": "Is this picture captured in a place of canyon? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 339, "image": "scene/images/Places365_val_00000170.jpg", "text": "Is this picture captured in a place of pharmacy? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 340, "image": "scene/images/Places365_val_00000170.jpg", "text": "Is this picture captured in a place of orchestra pit? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 341, "image": "scene/images/Places365_val_00000171.jpg", "text": "Is this picture captured in a place of greenhouse outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 342, "image": "scene/images/Places365_val_00000171.jpg", "text": "Is this picture captured in a place of archaelogical excavation? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 343, "image": "scene/images/Places365_val_00000172.jpg", "text": "Is this photo taken in a place of bathroom? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 344, "image": "scene/images/Places365_val_00000172.jpg", "text": "Is this photo taken in a place of auto factory? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 345, "image": "scene/images/Places365_val_00000173.jpg", "text": "Is this photo taken in a place of shoe shop? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 346, "image": "scene/images/Places365_val_00000173.jpg", "text": "Is this photo taken in a place of car interior? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 347, "image": "scene/images/Places365_val_00000174.jpg", "text": "Does this image describe a place of moat water? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 348, "image": "scene/images/Places365_val_00000174.jpg", "text": "Does this image describe a place of marsh? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 349, "image": "scene/images/Places365_val_00000175.jpg", "text": "Does this image describe a place of vegetable garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 350, "image": "scene/images/Places365_val_00000175.jpg", "text": "Does this image describe a place of parking garage indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 351, "image": "scene/images/Places365_val_00000176.jpg", "text": "Is this picture captured in a place of bowling alley? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 352, "image": "scene/images/Places365_val_00000176.jpg", "text": "Is this picture captured in a place of hotel outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 353, "image": "scene/images/Places365_val_00000177.jpg", "text": "Does this image describe a place of embassy? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 354, "image": "scene/images/Places365_val_00000177.jpg", "text": "Does this image describe a place of chemistry lab? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 355, "image": "scene/images/Places365_val_00000178.jpg", "text": "Is this photo taken in a place of youth hostel? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 356, "image": "scene/images/Places365_val_00000178.jpg", "text": "Is this photo taken in a place of hangar indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 357, "image": "scene/images/Places365_val_00000179.jpg", "text": "Does this image describe a place of hot spring? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 358, "image": "scene/images/Places365_val_00000179.jpg", "text": "Does this image describe a place of mausoleum? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 359, "image": "scene/images/Places365_val_00000180.jpg", "text": "Does this image describe a place of cottage? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 360, "image": "scene/images/Places365_val_00000180.jpg", "text": "Does this image describe a place of parking garage indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 361, "image": "scene/images/Places365_val_00000181.jpg", "text": "Does this image describe a place of general store outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 362, "image": "scene/images/Places365_val_00000181.jpg", "text": "Does this image describe a place of hotel room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 363, "image": "scene/images/Places365_val_00000182.jpg", "text": "Is this photo taken in a place of chalet? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 364, "image": "scene/images/Places365_val_00000182.jpg", "text": "Is this photo taken in a place of dorm room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 365, "image": "scene/images/Places365_val_00000183.jpg", "text": "Is this photo taken in a place of flea market indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 366, "image": "scene/images/Places365_val_00000183.jpg", "text": "Is this photo taken in a place of tree house? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 367, "image": "scene/images/Places365_val_00000184.jpg", "text": "Is this photo taken in a place of shower? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 368, "image": "scene/images/Places365_val_00000184.jpg", "text": "Is this photo taken in a place of living room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 369, "image": "scene/images/Places365_val_00000185.jpg", "text": "Is this picture captured in a place of supermarket? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 370, "image": "scene/images/Places365_val_00000185.jpg", "text": "Is this picture captured in a place of orchard? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 371, "image": "scene/images/Places365_val_00000186.jpg", "text": "Is this picture captured in a place of bowling alley? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 372, "image": "scene/images/Places365_val_00000186.jpg", "text": "Is this picture captured in a place of ice skating rink outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 373, "image": "scene/images/Places365_val_00000187.jpg", "text": "Is this picture captured in a place of barn? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 374, "image": "scene/images/Places365_val_00000187.jpg", "text": "Is this picture captured in a place of lobby? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 375, "image": "scene/images/Places365_val_00000188.jpg", "text": "Is this photo taken in a place of japanese garden? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 376, "image": "scene/images/Places365_val_00000188.jpg", "text": "Is this photo taken in a place of hangar indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 377, "image": "scene/images/Places365_val_00000189.jpg", "text": "Is this picture captured in a place of swimming hole? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 378, "image": "scene/images/Places365_val_00000189.jpg", "text": "Is this picture captured in a place of bedroom? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 379, "image": "scene/images/Places365_val_00000190.jpg", "text": "Is this picture captured in a place of pizzeria? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 380, "image": "scene/images/Places365_val_00000190.jpg", "text": "Is this picture captured in a place of computer room? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 381, "image": "scene/images/Places365_val_00000191.jpg", "text": "Does this image describe a place of volleyball court outdoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 382, "image": "scene/images/Places365_val_00000191.jpg", "text": "Does this image describe a place of church indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 383, "image": "scene/images/Places365_val_00000192.jpg", "text": "Is this photo taken in a place of market indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 384, "image": "scene/images/Places365_val_00000192.jpg", "text": "Is this photo taken in a place of home office? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 385, "image": "scene/images/Places365_val_00000193.jpg", "text": "Is this picture captured in a place of ice floe? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 386, "image": "scene/images/Places365_val_00000193.jpg", "text": "Is this picture captured in a place of closet? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 387, "image": "scene/images/Places365_val_00000194.jpg", "text": "Does this image describe a place of lake natural? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 388, "image": "scene/images/Places365_val_00000194.jpg", "text": "Does this image describe a place of beer hall? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 389, "image": "scene/images/Places365_val_00000195.jpg", "text": "Does this image describe a place of mountain path? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 390, "image": "scene/images/Places365_val_00000195.jpg", "text": "Does this image describe a place of construction site? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 391, "image": "scene/images/Places365_val_00000196.jpg", "text": "Is this photo taken in a place of orchestra pit? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 392, "image": "scene/images/Places365_val_00000196.jpg", "text": "Is this photo taken in a place of burial chamber? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 393, "image": "scene/images/Places365_val_00000197.jpg", "text": "Does this image describe a place of village? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 394, "image": "scene/images/Places365_val_00000197.jpg", "text": "Does this image describe a place of underwater ocean deep? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 395, "image": "scene/images/Places365_val_00000198.jpg", "text": "Does this image describe a place of waterfall? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 396, "image": "scene/images/Places365_val_00000198.jpg", "text": "Does this image describe a place of booth indoor? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 397, "image": "scene/images/Places365_val_00000199.jpg", "text": "Is this photo taken in a place of greenhouse indoor? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 398, "image": "scene/images/Places365_val_00000199.jpg", "text": "Is this photo taken in a place of aqueduct? Please answer yes or no.", "label": "no", "setting": "scene"}
+{"question_id": 399, "image": "scene/images/Places365_val_00000200.jpg", "text": "Is this photo taken in a place of television studio? Please answer yes or no.", "label": "yes", "setting": "scene"}
+{"question_id": 400, "image": "scene/images/Places365_val_00000200.jpg", "text": "Is this photo taken in a place of hunting lodge outdoor? Please answer yes or no.", "label": "no", "setting": "scene"}

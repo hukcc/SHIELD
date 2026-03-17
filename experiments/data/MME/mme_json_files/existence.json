@@ -1,0 +1,60 @@
+{"question_id": 1, "image": "existence/000000006040.jpg", "text": "Is there a train in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 2, "image": "existence/000000006040.jpg", "text": "Is there a bed in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 3, "image": "existence/000000006471.jpg", "text": "Is there a baseball bat in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 4, "image": "existence/000000006471.jpg", "text": "Is there a giraffe in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 5, "image": "existence/000000007108.jpg", "text": "Is there a elephant in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 6, "image": "existence/000000007108.jpg", "text": "Is there a hair drier in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 7, "image": "existence/000000007816.jpg", "text": "Is there a motorcycle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 8, "image": "existence/000000007816.jpg", "text": "Is there a airplane in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 9, "image": "existence/000000007977.jpg", "text": "Is there a skateboard in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 10, "image": "existence/000000007977.jpg", "text": "Is there a spoon in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 11, "image": "existence/000000008844.jpg", "text": "Is there a person in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 12, "image": "existence/000000008844.jpg", "text": "Is there a sink in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 13, "image": "existence/000000009590.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 14, "image": "existence/000000009590.jpg", "text": "Is there a scissors in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 15, "image": "existence/000000010363.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 16, "image": "existence/000000010363.jpg", "text": "Is there a apple in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 17, "image": "existence/000000011197.jpg", "text": "Is there a car in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 18, "image": "existence/000000011197.jpg", "text": "Is there a fork in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 19, "image": "existence/000000015254.jpg", "text": "Is there a spoon in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 20, "image": "existence/000000015254.jpg", "text": "Is there a donut in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 21, "image": "existence/000000015517.jpg", "text": "Is there a bus in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 22, "image": "existence/000000015517.jpg", "text": "Is there a cow in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 23, "image": "existence/000000015746.jpg", "text": "Is there a fire hydrant in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 24, "image": "existence/000000015746.jpg", "text": "Is there a person in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 25, "image": "existence/000000037751.jpg", "text": "Is there a backpack in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 26, "image": "existence/000000037751.jpg", "text": "Is there a microwave in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 27, "image": "existence/000000050145.jpg", "text": "Is there a bicycle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 28, "image": "existence/000000050145.jpg", "text": "Is there a apple in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 29, "image": "existence/000000061418.jpg", "text": "Is there a chair in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 30, "image": "existence/000000061418.jpg", "text": "Is there a airplane in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 31, "image": "existence/000000417779.jpg", "text": "Is there a car in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 32, "image": "existence/000000417779.jpg", "text": "Is there a kite in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 33, "image": "existence/000000424521.jpg", "text": "Is there a skateboard in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 34, "image": "existence/000000424521.jpg", "text": "Is there a banana in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 35, "image": "existence/000000438304.jpg", "text": "Is there a sports ball in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 36, "image": "existence/000000438304.jpg", "text": "Is there a horse in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 37, "image": "existence/000000494427.jpg", "text": "Is there a laptop in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 38, "image": "existence/000000494427.jpg", "text": "Is there a potted plant in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 39, "image": "existence/000000495448.jpg", "text": "Is there a cake in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 40, "image": "existence/000000495448.jpg", "text": "Is there a tie in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 41, "image": "existence/000000498463.jpg", "text": "Is there a refrigerator in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 42, "image": "existence/000000498463.jpg", "text": "Is there a donut in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 43, "image": "existence/000000519039.jpg", "text": "Is there a truck in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 44, "image": "existence/000000519039.jpg", "text": "Is there a book in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 45, "image": "existence/000000523241.jpg", "text": "Is there a car in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 46, "image": "existence/000000523241.jpg", "text": "Is there a cell phone in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 47, "image": "existence/000000530162.jpg", "text": "Is there a umbrella in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 48, "image": "existence/000000530162.jpg", "text": "Is there a horse in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 49, "image": "existence/000000537812.jpg", "text": "Is there a chair in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 50, "image": "existence/000000537812.jpg", "text": "Is there a baseball bat in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 51, "image": "existence/000000541952.jpg", "text": "Is there a clock in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 52, "image": "existence/000000541952.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 53, "image": "existence/000000546626.jpg", "text": "Is there a bottle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 54, "image": "existence/000000546626.jpg", "text": "Is there a mouse in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 55, "image": "existence/000000556000.jpg", "text": "Is there a chair in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 56, "image": "existence/000000556000.jpg", "text": "Is there a dog in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 57, "image": "existence/000000557258.jpg", "text": "Is there a toilet in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 58, "image": "existence/000000557258.jpg", "text": "Is there a pizza in this image? Please answer yes or no.", "label": "no", "setting": "existence"}
+{"question_id": 59, "image": "existence/000000572956.jpg", "text": "Is there a motorcycle in this image? Please answer yes or no.", "label": "yes", "setting": "existence"}
+{"question_id": 60, "image": "existence/000000572956.jpg", "text": "Is there a bus in this image? Please answer yes or no.", "label": "no", "setting": "existence"}

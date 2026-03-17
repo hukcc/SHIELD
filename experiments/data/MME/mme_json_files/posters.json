@@ -1,0 +1,294 @@
+{"question_id": 1, "image": "posters/images/tt0048028.jpg", "text": "Is this movie directed by elia kazan? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 2, "image": "posters/images/tt0048028.jpg", "text": "Is this movie directed by maneesh sharma? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 3, "image": "posters/images/tt0053221.jpg", "text": "Is this movie titled rio bravo (1959)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 4, "image": "posters/images/tt0053221.jpg", "text": "Is this movie titled the matrix (1999)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 5, "image": "posters/images/tt0062622.jpg", "text": "Is this movie originated from the country or region of uk? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 6, "image": "posters/images/tt0062622.jpg", "text": "Is this movie originated from the country or region of china? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 7, "image": "posters/images/tt0063442.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 8, "image": "posters/images/tt0063442.jpg", "text": "Is this movie originated from the country or region of japan? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 9, "image": "posters/images/tt0065724.jpg", "text": "Is this movie directed by bob rafelson? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 10, "image": "posters/images/tt0065724.jpg", "text": "Is this movie directed by anthony minghella? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 11, "image": "posters/images/tt0067116.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 12, "image": "posters/images/tt0067116.jpg", "text": "Is this movie originated from the country or region of uk? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 13, "image": "posters/images/tt0067140.jpg", "text": "Is this movie titled duck, you sucker (1971)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 14, "image": "posters/images/tt0067140.jpg", "text": "Is this movie titled crimson tide (1995)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 15, "image": "posters/images/tt0067185.jpg", "text": "Is this movie directed by hal ashby? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 16, "image": "posters/images/tt0067185.jpg", "text": "Is this movie directed by john hillcoat? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 17, "image": "posters/images/tt0068646.jpg", "text": "Is this movie titled the godfather (1972)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 18, "image": "posters/images/tt0068646.jpg", "text": "Is this movie titled bring on the melody (2017)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 19, "image": "posters/images/tt0070291.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 20, "image": "posters/images/tt0070291.jpg", "text": "Is this movie originated from the country or region of spain? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 21, "image": "posters/images/tt0071315.jpg", "text": "Is this movie titled chinatown (1974)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 22, "image": "posters/images/tt0071315.jpg", "text": "Is this movie titled planet of the apes (1968)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 23, "image": "posters/images/tt0074119.jpg", "text": "Is this movie directed by alan j. pakula? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 24, "image": "posters/images/tt0074119.jpg", "text": "Is this movie directed by stanley kubrick? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 25, "image": "posters/images/tt0074749.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 26, "image": "posters/images/tt0074749.jpg", "text": "Is this movie originated from the country or region of venezuela? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 27, "image": "posters/images/tt0082186.jpg", "text": "Is this movie directed by desmond davis? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 28, "image": "posters/images/tt0082186.jpg", "text": "Is this movie directed by edward zwick? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 29, "image": "posters/images/tt0083907.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 30, "image": "posters/images/tt0083907.jpg", "text": "Is this movie originated from the country or region of bulgaria? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 31, "image": "posters/images/tt0083946.jpg", "text": "Is this movie originated from the country or region of west germany? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 32, "image": "posters/images/tt0083946.jpg", "text": "Is this movie originated from the country or region of denmark? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 33, "image": "posters/images/tt0084787.jpg", "text": "Is this movie titled the thing (1982)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 34, "image": "posters/images/tt0084787.jpg", "text": "Is this movie titled jay and silent bob strike back (2001)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 35, "image": "posters/images/tt0086250.jpg", "text": "Is this movie directed by brian de palma? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 36, "image": "posters/images/tt0086250.jpg", "text": "Is this movie directed by patrice leconte? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 37, "image": "posters/images/tt0093565.jpg", "text": "Is this movie titled moonstruck (1987)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 38, "image": "posters/images/tt0093565.jpg", "text": "Is this movie titled now you see me (2013)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 39, "image": "posters/images/tt0093773.jpg", "text": "Is this movie titled predator (1987)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 40, "image": "posters/images/tt0093773.jpg", "text": "Is this movie titled the cell (2000)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 41, "image": "posters/images/tt0094291.jpg", "text": "Is this movie directed by oliver stone? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 42, "image": "posters/images/tt0094291.jpg", "text": "Is this movie directed by raja gosnell? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 43, "image": "posters/images/tt0096446.jpg", "text": "Is this movie directed by ron howard? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 44, "image": "posters/images/tt0096446.jpg", "text": "Is this movie directed by peter jackson? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 45, "image": "posters/images/tt0096463.jpg", "text": "Is this movie directed by mike nichols? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 46, "image": "posters/images/tt0096463.jpg", "text": "Is this movie directed by cary joji fukunaga? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 47, "image": "posters/images/tt0096895.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 48, "image": "posters/images/tt0096895.jpg", "text": "Is this movie originated from the country or region of china? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 49, "image": "posters/images/tt0097576.jpg", "text": "Is this movie directed by steven spielberg? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 50, "image": "posters/images/tt0097576.jpg", "text": "Is this movie directed by francis ford coppola? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 51, "image": "posters/images/tt0098635.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 52, "image": "posters/images/tt0098635.jpg", "text": "Is this movie originated from the country or region of spain? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 53, "image": "posters/images/tt0098724.jpg", "text": "Is this movie titled sex, lies, and videotape (1989)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 54, "image": "posters/images/tt0098724.jpg", "text": "Is this movie titled final destination (2000)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 55, "image": "posters/images/tt0099653.jpg", "text": "Is this movie directed by jerry zucker? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 56, "image": "posters/images/tt0099653.jpg", "text": "Is this movie directed by felix chong,alan mak? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 57, "image": "posters/images/tt0100112.jpg", "text": "Is this movie originated from the country or region of france? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 58, "image": "posters/images/tt0100112.jpg", "text": "Is this movie originated from the country or region of new zealand? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 59, "image": "posters/images/tt0100150.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 60, "image": "posters/images/tt0100150.jpg", "text": "Is this movie originated from the country or region of hong kong? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 61, "image": "posters/images/tt0100935.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 62, "image": "posters/images/tt0100935.jpg", "text": "Is this movie originated from the country or region of canada? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 63, "image": "posters/images/tt0101889.jpg", "text": "Is this movie titled the fisher king (1991)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 64, "image": "posters/images/tt0101889.jpg", "text": "Is this movie titled a good day to die hard (2013)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 65, "image": "posters/images/tt0101921.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 66, "image": "posters/images/tt0101921.jpg", "text": "Is this movie originated from the country or region of australia? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 67, "image": "posters/images/tt0107653.jpg", "text": "Is this movie titled naked (1993)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 68, "image": "posters/images/tt0107653.jpg", "text": "Is this movie titled captain america: civil war (2016)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 69, "image": "posters/images/tt0107808.jpg", "text": "Is this movie titled a perfect world (1993)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 70, "image": "posters/images/tt0107808.jpg", "text": "Is this movie titled harold and maude (1971)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 71, "image": "posters/images/tt0110201.jpg", "text": "Is this movie titled hail the judge (1994)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 72, "image": "posters/images/tt0110201.jpg", "text": "Is this movie titled batman (1989)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 73, "image": "posters/images/tt0112740.jpg", "text": "Is this movie titled crimson tide (1995)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 74, "image": "posters/images/tt0112740.jpg", "text": "Is this movie titled insidious: the last key (2018)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 75, "image": "posters/images/tt0113497.jpg", "text": "Is this movie titled jumanji (1995)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 76, "image": "posters/images/tt0113497.jpg", "text": "Is this movie titled morgan (2016)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 77, "image": "posters/images/tt0114369.jpg", "text": "Is this movie titled se7en (1995)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 78, "image": "posters/images/tt0114369.jpg", "text": "Is this movie titled a perfect world (1993)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 79, "image": "posters/images/tt0114388.jpg", "text": "Is this movie directed by ang lee? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 80, "image": "posters/images/tt0114388.jpg", "text": "Is this movie directed by david lowery? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 81, "image": "posters/images/tt0116209.jpg", "text": "Is this movie directed by anthony minghella? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 82, "image": "posters/images/tt0116209.jpg", "text": "Is this movie directed by john cassavetes? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 83, "image": "posters/images/tt0116629.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 84, "image": "posters/images/tt0116629.jpg", "text": "Is this movie originated from the country or region of australia? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 85, "image": "posters/images/tt0118636.jpg", "text": "Is this movie titled apt pupil (1998)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 86, "image": "posters/images/tt0118636.jpg", "text": "Is this movie titled a good day to die hard (2013)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 87, "image": "posters/images/tt0118655.jpg", "text": "Is this movie directed by jay roach? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 88, "image": "posters/images/tt0118655.jpg", "text": "Is this movie directed by peter jackson? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 89, "image": "posters/images/tt0118715.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 90, "image": "posters/images/tt0118715.jpg", "text": "Is this movie originated from the country or region of venezuela? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 91, "image": "posters/images/tt0119303.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 92, "image": "posters/images/tt0119303.jpg", "text": "Is this movie originated from the country or region of spain? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 93, "image": "posters/images/tt0120738.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 94, "image": "posters/images/tt0120738.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 95, "image": "posters/images/tt0129387.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 96, "image": "posters/images/tt0129387.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 97, "image": "posters/images/tt0133093.jpg", "text": "Is this movie directed by lana wachowski,lilly wachowski? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 98, "image": "posters/images/tt0133093.jpg", "text": "Is this movie directed by siu-tung ching? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 99, "image": "posters/images/tt0163025.jpg", "text": "Is this movie directed by joe johnston? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 100, "image": "posters/images/tt0163025.jpg", "text": "Is this movie directed by adam robitel? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 101, "image": "posters/images/tt0166924.jpg", "text": "Is this movie titled mulholland drive (2001)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 102, "image": "posters/images/tt0166924.jpg", "text": "Is this movie titled lucky number slevin (2006)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 103, "image": "posters/images/tt0167261.jpg", "text": "Is this movie directed by peter jackson? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 104, "image": "posters/images/tt0167261.jpg", "text": "Is this movie directed by gabe ibáñez? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 105, "image": "posters/images/tt0182789.jpg", "text": "Is this movie titled bicentennial man (1999)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 106, "image": "posters/images/tt0182789.jpg", "text": "Is this movie titled ocean's eleven (2001)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 107, "image": "posters/images/tt0187078.jpg", "text": "Is this movie titled gone in 60 seconds (2000)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 108, "image": "posters/images/tt0187078.jpg", "text": "Is this movie titled avatar (2009)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 109, "image": "posters/images/tt0195714.jpg", "text": "Is this movie directed by james wong? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 110, "image": "posters/images/tt0195714.jpg", "text": "Is this movie directed by bob rafelson? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 111, "image": "posters/images/tt0209958.jpg", "text": "Is this movie titled the cell (2000)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 112, "image": "posters/images/tt0209958.jpg", "text": "Is this movie titled the matrix revolutions (2003)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 113, "image": "posters/images/tt0232500.jpg", "text": "Is this movie titled the fast and the furious (2001)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 114, "image": "posters/images/tt0232500.jpg", "text": "Is this movie titled east of eden (1955)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 115, "image": "posters/images/tt0240772.jpg", "text": "Is this movie directed by steven soderbergh? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 116, "image": "posters/images/tt0240772.jpg", "text": "Is this movie directed by paul mcguigan? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 117, "image": "posters/images/tt0242653.jpg", "text": "Is this movie titled the matrix revolutions (2003)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 118, "image": "posters/images/tt0242653.jpg", "text": "Is this movie titled sense and sensibility (1995)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 119, "image": "posters/images/tt0244244.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 120, "image": "posters/images/tt0244244.jpg", "text": "Is this movie originated from the country or region of argentina? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 121, "image": "posters/images/tt0258463.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 122, "image": "posters/images/tt0258463.jpg", "text": "Is this movie originated from the country or region of italy? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 123, "image": "posters/images/tt0261392.jpg", "text": "Is this movie titled jay and silent bob strike back (2001)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 124, "image": "posters/images/tt0261392.jpg", "text": "Is this movie titled avatar (2009)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 125, "image": "posters/images/tt0264395.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 126, "image": "posters/images/tt0264395.jpg", "text": "Is this movie originated from the country or region of australia? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 127, "image": "posters/images/tt0266697.jpg", "text": "Is this movie directed by quentin tarantino? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 128, "image": "posters/images/tt0266697.jpg", "text": "Is this movie directed by peyton reed? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 129, "image": "posters/images/tt0268978.jpg", "text": "Is this movie titled a beautiful mind (2001)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 130, "image": "posters/images/tt0268978.jpg", "text": "Is this movie titled blue jasmine (2013)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 131, "image": "posters/images/tt0318627.jpg", "text": "Is this movie titled resident evil: apocalypse (2004)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 132, "image": "posters/images/tt0318627.jpg", "text": "Is this movie titled the meddler (2015)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 133, "image": "posters/images/tt0328107.jpg", "text": "Is this movie titled man on fire (2004)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 134, "image": "posters/images/tt0328107.jpg", "text": "Is this movie titled real steel (2011)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 135, "image": "posters/images/tt0338751.jpg", "text": "Is this movie directed by martin scorsese? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 136, "image": "posters/images/tt0338751.jpg", "text": "Is this movie directed by chris columbus? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 137, "image": "posters/images/tt0341495.jpg", "text": "Is this movie directed by siu-tung ching? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 138, "image": "posters/images/tt0341495.jpg", "text": "Is this movie directed by lorenzo vigas? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 139, "image": "posters/images/tt0351977.jpg", "text": "Is this movie directed by kevin bray? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 140, "image": "posters/images/tt0351977.jpg", "text": "Is this movie directed by joe johnston? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 141, "image": "posters/images/tt0369702.jpg", "text": "Is this movie originated from the country or region of spain? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 142, "image": "posters/images/tt0369702.jpg", "text": "Is this movie originated from the country or region of france? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 143, "image": "posters/images/tt0373469.jpg", "text": "Is this movie directed by shane black? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 144, "image": "posters/images/tt0373469.jpg", "text": "Is this movie directed by dennis dugan? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 145, "image": "posters/images/tt0378194.jpg", "text": "Is this movie directed by quentin tarantino? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 146, "image": "posters/images/tt0378194.jpg", "text": "Is this movie directed by todd phillips? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 147, "image": "posters/images/tt0379786.jpg", "text": "Is this movie titled serenity (2005)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 148, "image": "posters/images/tt0379786.jpg", "text": "Is this movie titled bad genius (2017)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 149, "image": "posters/images/tt0393109.jpg", "text": "Is this movie titled brick (2005)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 150, "image": "posters/images/tt0393109.jpg", "text": "Is this movie titled sense and sensibility (1995)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 151, "image": "posters/images/tt0399201.jpg", "text": "Is this movie directed by michael bay? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 152, "image": "posters/images/tt0399201.jpg", "text": "Is this movie directed by angelina jolie? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 153, "image": "posters/images/tt0425210.jpg", "text": "Is this movie titled lucky number slevin (2006)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 154, "image": "posters/images/tt0425210.jpg", "text": "Is this movie titled the godfather (1972)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 155, "image": "posters/images/tt0433035.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 156, "image": "posters/images/tt0433035.jpg", "text": "Is this movie originated from the country or region of new zealand? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 157, "image": "posters/images/tt0443680.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 158, "image": "posters/images/tt0443680.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 159, "image": "posters/images/tt0449088.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 160, "image": "posters/images/tt0449088.jpg", "text": "Is this movie originated from the country or region of japan? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 161, "image": "posters/images/tt0450259.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 162, "image": "posters/images/tt0450259.jpg", "text": "Is this movie originated from the country or region of china? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 163, "image": "posters/images/tt0462499.jpg", "text": "Is this movie titled rambo (2008)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 164, "image": "posters/images/tt0462499.jpg", "text": "Is this movie titled walking tall (2004)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 165, "image": "posters/images/tt0499549.jpg", "text": "Is this movie directed by james cameron? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 166, "image": "posters/images/tt0499549.jpg", "text": "Is this movie directed by jerry zucker? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 167, "image": "posters/images/tt0780653.jpg", "text": "Is this movie titled the wolfman (2010)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 168, "image": "posters/images/tt0780653.jpg", "text": "Is this movie titled wild at heart (1990)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 169, "image": "posters/images/tt0829482.jpg", "text": "Is this movie directed by greg mottola? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 170, "image": "posters/images/tt0829482.jpg", "text": "Is this movie directed by jing wong? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 171, "image": "posters/images/tt0848228.jpg", "text": "Is this movie titled the avengers (2012)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 172, "image": "posters/images/tt0848228.jpg", "text": "Is this movie titled wolf warrior 2 (2017)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 173, "image": "posters/images/tt0898367.jpg", "text": "Is this movie directed by john hillcoat? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 174, "image": "posters/images/tt0898367.jpg", "text": "Is this movie directed by franklin j. schaffner? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 175, "image": "posters/images/tt0942385.jpg", "text": "Is this movie titled tropic thunder (2008)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 176, "image": "posters/images/tt0942385.jpg", "text": "Is this movie titled bad teacher (2011)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 177, "image": "posters/images/tt0993846.jpg", "text": "Is this movie titled the wolf of wall street (2013)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 178, "image": "posters/images/tt0993846.jpg", "text": "Is this movie titled lucky number slevin (2006)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 179, "image": "posters/images/tt1017460.jpg", "text": "Is this movie directed by vincenzo natali? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 180, "image": "posters/images/tt1017460.jpg", "text": "Is this movie directed by raja gosnell? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 181, "image": "posters/images/tt1057500.jpg", "text": "Is this movie directed by clint eastwood? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 182, "image": "posters/images/tt1057500.jpg", "text": "Is this movie directed by john cassavetes? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 183, "image": "posters/images/tt1068680.jpg", "text": "Is this movie titled yes man (2008)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 184, "image": "posters/images/tt1068680.jpg", "text": "Is this movie titled rio bravo (1959)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 185, "image": "posters/images/tt1099212.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 186, "image": "posters/images/tt1099212.jpg", "text": "Is this movie originated from the country or region of japan? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 187, "image": "posters/images/tt1119646.jpg", "text": "Is this movie directed by todd phillips? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 188, "image": "posters/images/tt1119646.jpg", "text": "Is this movie directed by franklin j. schaffner? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 189, "image": "posters/images/tt1124037.jpg", "text": "Is this movie directed by gary ross? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 190, "image": "posters/images/tt1124037.jpg", "text": "Is this movie directed by francis ford coppola? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 191, "image": "posters/images/tt1229822.jpg", "text": "Is this movie titled jane eyre (2011)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 192, "image": "posters/images/tt1229822.jpg", "text": "Is this movie titled kiss kiss bang bang (2005)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 193, "image": "posters/images/tt1284575.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 194, "image": "posters/images/tt1284575.jpg", "text": "Is this movie originated from the country or region of bulgaria? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 195, "image": "posters/images/tt1291150.jpg", "text": "Is this movie directed by jonathan liebesman? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 196, "image": "posters/images/tt1291150.jpg", "text": "Is this movie directed by masahide ichii? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 197, "image": "posters/images/tt1300851.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 198, "image": "posters/images/tt1300851.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 199, "image": "posters/images/tt1305806.jpg", "text": "Is this movie titled the secret in their eyes (2009)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 200, "image": "posters/images/tt1305806.jpg", "text": "Is this movie titled ocean's eleven (2001)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 201, "image": "posters/images/tt1343092.jpg", "text": "Is this movie directed by baz luhrmann? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 202, "image": "posters/images/tt1343092.jpg", "text": "Is this movie directed by lorenzo vigas? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 203, "image": "posters/images/tt1385826.jpg", "text": "Is this movie titled the adjustment bureau (2011)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 204, "image": "posters/images/tt1385826.jpg", "text": "Is this movie titled the last of sheila (1973)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 205, "image": "posters/images/tt1403865.jpg", "text": "Is this movie directed by ethan coen,joel coen? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 206, "image": "posters/images/tt1403865.jpg", "text": "Is this movie directed by john hillcoat? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 207, "image": "posters/images/tt1438176.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 208, "image": "posters/images/tt1438176.jpg", "text": "Is this movie originated from the country or region of west germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 209, "image": "posters/images/tt1454029.jpg", "text": "Is this movie titled the help (2011)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 210, "image": "posters/images/tt1454029.jpg", "text": "Is this movie titled avatar (2009)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 211, "image": "posters/images/tt1560747.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 212, "image": "posters/images/tt1560747.jpg", "text": "Is this movie originated from the country or region of canada? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 213, "image": "posters/images/tt1564367.jpg", "text": "Is this movie titled just go with it (2011)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 214, "image": "posters/images/tt1564367.jpg", "text": "Is this movie titled journey to the west (2013)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 215, "image": "posters/images/tt1606378.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 216, "image": "posters/images/tt1606378.jpg", "text": "Is this movie originated from the country or region of uk? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 217, "image": "posters/images/tt1637725.jpg", "text": "Is this movie titled ted (2012)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 218, "image": "posters/images/tt1637725.jpg", "text": "Is this movie titled lost in space (1998)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 219, "image": "posters/images/tt1670345.jpg", "text": "Is this movie titled now you see me (2013)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 220, "image": "posters/images/tt1670345.jpg", "text": "Is this movie titled bicentennial man (1999)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 221, "image": "posters/images/tt1703957.jpg", "text": "Is this movie titled genius (2016)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 222, "image": "posters/images/tt1703957.jpg", "text": "Is this movie titled fan (2016)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 223, "image": "posters/images/tt1722484.jpg", "text": "Is this movie directed by hermine huntgeburth? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 224, "image": "posters/images/tt1722484.jpg", "text": "Is this movie directed by todd phillips? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 225, "image": "posters/images/tt1800241.jpg", "text": "Is this movie directed by david o. russell? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 226, "image": "posters/images/tt1800241.jpg", "text": "Is this movie directed by raja gosnell? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 227, "image": "posters/images/tt1809398.jpg", "text": "Is this movie titled unbroken (2014)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 228, "image": "posters/images/tt1809398.jpg", "text": "Is this movie titled home alone 3 (1997)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 229, "image": "posters/images/tt1971325.jpg", "text": "Is this movie originated from the country or region of bulgaria? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 230, "image": "posters/images/tt1971325.jpg", "text": "Is this movie originated from the country or region of spain? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 231, "image": "posters/images/tt1974419.jpg", "text": "Is this movie titled the neon demon (2016)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 232, "image": "posters/images/tt1974419.jpg", "text": "Is this movie titled man on fire (2004)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 233, "image": "posters/images/tt2017561.jpg", "text": "Is this movie directed by stephen chow,chi-kin kwok? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 234, "image": "posters/images/tt2017561.jpg", "text": "Is this movie directed by craig gillespie? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 235, "image": "posters/images/tt2078768.jpg", "text": "Is this movie originated from the country or region of hong kong? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 236, "image": "posters/images/tt2078768.jpg", "text": "Is this movie originated from the country or region of venezuela? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 237, "image": "posters/images/tt2132285.jpg", "text": "Is this movie titled the bling ring (2013)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 238, "image": "posters/images/tt2132285.jpg", "text": "Is this movie titled tropic thunder (2008)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 239, "image": "posters/images/tt2238032.jpg", "text": "Is this movie titled skiptrace (2016)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 240, "image": "posters/images/tt2238032.jpg", "text": "Is this movie titled the bourne identity (2002)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 241, "image": "posters/images/tt2334873.jpg", "text": "Is this movie titled blue jasmine (2013)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 242, "image": "posters/images/tt2334873.jpg", "text": "Is this movie titled a good day to die hard (2013)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 243, "image": "posters/images/tt2788732.jpg", "text": "Is this movie titled pete's dragon (2016)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 244, "image": "posters/images/tt2788732.jpg", "text": "Is this movie titled willow (1988)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 245, "image": "posters/images/tt2802144.jpg", "text": "Is this movie directed by matthew vaughn? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 246, "image": "posters/images/tt2802144.jpg", "text": "Is this movie directed by dietrich brüggemann? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 247, "image": "posters/images/tt2908856.jpg", "text": "Is this movie directed by israel horovitz? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 248, "image": "posters/images/tt2908856.jpg", "text": "Is this movie directed by mike nichols? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 249, "image": "posters/images/tt2980516.jpg", "text": "Is this movie titled the theory of everything (2014)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 250, "image": "posters/images/tt2980516.jpg", "text": "Is this movie titled stations of the cross (2014)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 251, "image": "posters/images/tt3077214.jpg", "text": "Is this movie titled suffragette (2015)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 252, "image": "posters/images/tt3077214.jpg", "text": "Is this movie titled east of eden (1955)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 253, "image": "posters/images/tt3316960.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 254, "image": "posters/images/tt3316960.jpg", "text": "Is this movie originated from the country or region of west germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 255, "image": "posters/images/tt3465916.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 256, "image": "posters/images/tt3465916.jpg", "text": "Is this movie originated from the country or region of spain? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 257, "image": "posters/images/tt3495026.jpg", "text": "Is this movie titled fan (2016)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 258, "image": "posters/images/tt3495026.jpg", "text": "Is this movie titled from afar (2015)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 259, "image": "posters/images/tt3498820.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 260, "image": "posters/images/tt3498820.jpg", "text": "Is this movie originated from the country or region of germany? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 261, "image": "posters/images/tt3700804.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 262, "image": "posters/images/tt3700804.jpg", "text": "Is this movie originated from the country or region of uk? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 263, "image": "posters/images/tt3824458.jpg", "text": "Is this movie titled tangerine (2015)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 264, "image": "posters/images/tt3824458.jpg", "text": "Is this movie titled miller's crossing (1990)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 265, "image": "posters/images/tt3860916.jpg", "text": "Is this movie directed by ben howling? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 266, "image": "posters/images/tt3860916.jpg", "text": "Is this movie directed by quentin tarantino? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 267, "image": "posters/images/tt4046784.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 268, "image": "posters/images/tt4046784.jpg", "text": "Is this movie originated from the country or region of uk? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 269, "image": "posters/images/tt4242158.jpg", "text": "Is this movie titled lost in hong kong (2015)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 270, "image": "posters/images/tt4242158.jpg", "text": "Is this movie titled harold and maude (1971)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 271, "image": "posters/images/tt4273292.jpg", "text": "Is this movie directed by babak anvari? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 272, "image": "posters/images/tt4273292.jpg", "text": "Is this movie directed by ethan coen,joel coen? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 273, "image": "posters/images/tt4501454.jpg", "text": "Is this movie directed by lorene scafaria? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 274, "image": "posters/images/tt4501454.jpg", "text": "Is this movie directed by herbert ross? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 275, "image": "posters/images/tt4520364.jpg", "text": "Is this movie directed by luke scott? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 276, "image": "posters/images/tt4520364.jpg", "text": "Is this movie directed by dominic sena? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 277, "image": "posters/images/tt4651520.jpg", "text": "Is this movie originated from the country or region of usa? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 278, "image": "posters/images/tt4651520.jpg", "text": "Is this movie originated from the country or region of china? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 279, "image": "posters/images/tt4721400.jpg", "text": "Is this movie directed by lorenzo vigas? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 280, "image": "posters/images/tt4721400.jpg", "text": "Is this movie directed by jonathan liebesman? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 281, "image": "posters/images/tt4972062.jpg", "text": "Is this movie directed by mike birbiglia? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 282, "image": "posters/images/tt4972062.jpg", "text": "Is this movie directed by david fincher? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 283, "image": "posters/images/tt5564148.jpg", "text": "Is this movie directed by masahide ichii? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 284, "image": "posters/images/tt5564148.jpg", "text": "Is this movie directed by dietrich brüggemann? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 285, "image": "posters/images/tt5688868.jpg", "text": "Is this movie titled primal rage: the legend of konga (2018)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 286, "image": "posters/images/tt5688868.jpg", "text": "Is this movie titled the neon demon (2016)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 287, "image": "posters/images/tt5726086.jpg", "text": "Is this movie directed by adam robitel? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 288, "image": "posters/images/tt5726086.jpg", "text": "Is this movie directed by gore verbinski? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 289, "image": "posters/images/tt6788942.jpg", "text": "Is this movie originated from the country or region of thailand? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 290, "image": "posters/images/tt6788942.jpg", "text": "Is this movie originated from the country or region of argentina? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 291, "image": "posters/images/tt7055592.jpg", "text": "Is this movie titled brotherhood of blades ii: the infernal battlefield (2017)? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 292, "image": "posters/images/tt7055592.jpg", "text": "Is this movie titled stations of the cross (2014)? Please answer yes or no.", "label": "no", "setting": "posters"}
+{"question_id": 293, "image": "posters/images/tt7131870.jpg", "text": "Is this movie directed by jing wu? Please answer yes or no.", "label": "yes", "setting": "posters"}
+{"question_id": 294, "image": "posters/images/tt7131870.jpg", "text": "Is this movie directed by david lynch? Please answer yes or no.", "label": "no", "setting": "posters"}
