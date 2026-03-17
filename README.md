@@ -10,9 +10,14 @@
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue.svg)](https://openreview.net/forum?id=yk7FFLoNcP)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16596-b31b1b.svg)](https://arxiv.org/abs/2510.16596)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://arxiv.org/pdf/2510.16596)
+[![OpenReview](https://img.shields.io/badge/OpenReview-yk7FFLoNcP-8c1b13.svg)](https://openreview.net/forum?id=yk7FFLoNcP)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://hukcc.github.io/SHIELD/)
+[![Code](https://img.shields.io/badge/GitHub-Code-black.svg?logo=github)](https://github.com/hukcc/SHIELD)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
-
-[Paper](https://arxiv.org/abs/2510.16596) | [OpenReview](https://openreview.net/forum?id=yk7FFLoNcP) | [Project Page](https://hukcc.github.io/SHIELD/) | [Code](#quick-start)
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0.1-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/hukcc/SHIELD/issues)
 
 <p align="center">
     <img src="figs/pipeline.png" width="90%">
