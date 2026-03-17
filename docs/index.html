@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHIELD — Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --accent: #f59e0b;
+            --bg: #ffffff;
+            --bg-alt: #f8fafc;
+            --bg-code: #1e293b;
+            --text: #1e293b;
+            --text-secondary: #64748b;
+            --border: #e2e8f0;
+            --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+            --shadow-lg: 0 10px 30px rgba(0,0,0,0.1);
+            --radius: 12px;
+            --max-width: 960px;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            color: var(--text);
+            background: var(--bg);
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Hero */
+        .hero {
+            text-align: center;
+            padding: 80px 0 60px;
+            background: linear-gradient(135deg, #eff6ff 0%, #f8fafc 50%, #fefce8 100%);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+
+        .hero h1 span { color: var(--primary); }
+
+        .hero .subtitle {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin: 0 auto 28px;
+            line-height: 1.6;
+        }
+
+        .hero .venue {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 4px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .authors {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 8px;
+        }
+
+        .authors a {
+            color: var(--text);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .authors a:hover { color: var(--primary); }
+
+        .affiliation {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-bottom: 24px;
+        }
+
+        .links {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .links a {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        .links .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .links .btn-primary:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .links .btn-outline {
+            background: white;
+            color: var(--text);
+            border: 1px solid var(--border);
+        }
+
+        .links .btn-outline:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+            transform: translateY(-1px);
+        }
+
+        /* Sections */
+        section {
+            padding: 60px 0;
+        }
+
+        section:nth-child(even) {
+            background: var(--bg-alt);
+        }
+
+        section h2 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 24px;
+            letter-spacing: -0.01em;
+        }
+
+        section h2 .section-icon {
+            color: var(--primary);
+            margin-right: 8px;
+        }
+
+        /* Abstract */
+        .abstract-text {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: #334155;
+            text-align: justify;
+        }
+
+        /* Method */
+        .method-figure {
+            text-align: center;
+            margin: 32px 0;
+        }
+
+        .method-figure img {
+            max-width: 100%;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .method-figure .caption {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 12px;
+        }
+
+        .method-cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-top: 32px;
+        }
+
+        .method-card {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 24px;
+            transition: all 0.2s;
+        }
+
+        .method-card:hover {
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-2px);
+        }
+
+        .method-card .card-icon {
+            font-size: 1.5rem;
+            margin-bottom: 12px;
+        }
+
+        .method-card h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .method-card p {
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* Results */
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+        }
+
+        .result-block {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+
+        .result-block h3 {
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 16px 20px;
+            background: var(--bg-alt);
+            border-bottom: 1px solid var(--border);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.88rem;
+        }
+
+        th, td {
+            padding: 10px 16px;
+            text-align: center;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            font-weight: 600;
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        td:first-child, th:first-child {
+            text-align: left;
+        }
+
+        tr.ours {
+            background: #eff6ff;
+            font-weight: 600;
+        }
+
+        tr.ours td:first-child {
+            color: var(--primary);
+        }
+
+        .highlight-note {
+            margin-top: 24px;
+            padding: 16px 20px;
+            background: #fefce8;
+            border-left: 4px solid var(--accent);
+            border-radius: 0 var(--radius) var(--radius) 0;
+            font-size: 0.92rem;
+            color: #713f12;
+        }
+
+        /* Qualitative */
+        .teaser-figure {
+            text-align: center;
+            margin: 24px 0;
+        }
+
+        .teaser-figure img {
+            max-width: 100%;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+
+        .teaser-figure .caption {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 12px;
+        }
+
+        /* Code */
+        .code-block {
+            background: var(--bg-code);
+            border-radius: var(--radius);
+            padding: 24px;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        .code-block pre {
+            color: #e2e8f0;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            line-height: 1.7;
+        }
+
+        .code-block .comment { color: #64748b; }
+        .code-block .keyword { color: #c084fc; }
+        .code-block .string { color: #86efac; }
+        .code-block .func { color: #93c5fd; }
+
+        /* BibTeX */
+        .bibtex-block {
+            background: var(--bg-code);
+            border-radius: var(--radius);
+            padding: 24px;
+            position: relative;
+        }
+
+        .bibtex-block pre {
+            color: #e2e8f0;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.82rem;
+            line-height: 1.7;
+            white-space: pre-wrap;
+        }
+
+        .copy-btn {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: #e2e8f0;
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.2s;
+        }
+
+        .copy-btn:hover {
+            background: rgba(255,255,255,0.2);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            border-top: 1px solid var(--border);
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2rem; }
+            .method-cards { grid-template-columns: 1fr; }
+            .results-grid { grid-template-columns: 1fr; }
+            .links { flex-direction: column; align-items: center; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Hero -->
+<header class="hero">
+    <div class="container">
+        <div class="venue">ICLR 2026</div>
+        <h1><span>SHIELD</span></h1>
+        <p class="subtitle">
+            Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense
+        </p>
+        <p class="authors">
+            <a href="https://hukcc.github.io/">Yiyang Huang</a>,
+            Liang Shi,
+            Yitian Zhang,
+            Yi Xu,
+            <a href="https://www1.ece.neu.edu/~yunfu/">Yun Fu</a>
+        </p>
+        <p class="affiliation">Northeastern University</p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2510.16596" class="btn-primary">
+                <i class="fa-solid fa-file-lines"></i> Paper (arXiv)
+            </a>
+            <a href="https://openreview.net/forum?id=yk7FFLoNcP" class="btn-outline">
+                <i class="fa-solid fa-comments"></i> OpenReview
+            </a>
+            <a href="https://github.com/hukcc/SHIELD" class="btn-outline">
+                <i class="fa-brands fa-github"></i> Code
+            </a>
+        </div>
+    </div>
+</header>
+
+<!-- Abstract -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-scroll"></i></span>Abstract</h2>
+        <p class="abstract-text">
+            Large Vision-Language Models (LVLMs) excel in diverse cross-modal tasks. However, object hallucination — where models produce plausible but inaccurate object descriptions — remains a significant challenge. In contrast to previous work focusing on LLM components, this paper is <strong>the first to trace LVLM hallucinations to visual encoders</strong> and identifies three key issues: <em>statistical bias</em>, <em>inherent bias</em>, and <em>vulnerability</em>. To address these challenges, we propose <strong>SHIELD</strong>, a training-free framework that mitigates hallucinations through three strategies: re-weighting visual tokens to reduce statistical bias, introducing noise-derived tokens to counter inherent bias, and applying adversarial attacks with contrastive decoding to address vulnerability. Experiments demonstrate that SHIELD effectively mitigates object hallucinations across diverse benchmarks and LVLM families. Moreover, SHIELD achieves strong performance on the general LVLM benchmark, highlighting its broad applicability.
+        </p>
+    </div>
+</section>
+
+<!-- Method -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-diagram-project"></i></span>Method</h2>
+
+        <div class="teaser-figure">
+            <img src="../figs/teasor.png" alt="Three key issues: statistical bias, inherent bias, and vulnerability in visual encoders">
+            <p class="caption">We identify three key issues in LVLM visual encoders that cause hallucinations: statistical bias, inherent bias, and vulnerability.</p>
+        </div>
+
+        <div class="method-figure">
+            <img src="../figs/pipeline.png" alt="SHIELD Framework Pipeline">
+            <p class="caption">Overview of the SHIELD framework. Our training-free approach addresses all three encoder issues via token re-weighting, token subtraction, and contrastive decoding.</p>
+        </div>
+
+        <div class="method-cards">
+            <div class="method-card">
+                <div class="card-icon">&#9878;</div>
+                <h3>Token Re-weighting</h3>
+                <p>Re-weight visual tokens using their similarity with naive caption tokens, redistributing attention to reduce statistical bias toward high-frequency patterns.</p>
+            </div>
+            <div class="method-card">
+                <div class="card-icon">&#8854;</div>
+                <h3>Token Subtraction</h3>
+                <p>Estimate dominant-object false representations using K random noise inputs, then subtract them from visual tokens to reduce inherent bias.</p>
+            </div>
+            <div class="method-card">
+                <div class="card-icon">&#9760;</div>
+                <h3>Contrastive Decoding</h3>
+                <p>Apply adversarial perturbation to expose hallucination-prone objects, then contrast natural vs. perturbed outputs to suppress vulnerable predictions.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Results -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-chart-line"></i></span>Results</h2>
+
+        <div class="results-grid">
+            <div class="result-block">
+                <h3>CHAIR (LLaVA-1.5) &darr; lower is better</h3>
+                <table>
+                    <thead><tr><th>Method</th><th>C<sub>S</sub></th><th>C<sub>I</sub></th></tr></thead>
+                    <tbody>
+                        <tr><td>Vanilla</td><td>48.8</td><td>14.2</td></tr>
+                        <tr><td>VCD</td><td>46.8</td><td>13.2</td></tr>
+                        <tr><td>OPERA</td><td>44.6</td><td>12.8</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>36.6</strong></td><td><strong>10.3</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="result-block">
+                <h3>POPE Avg (LLaVA-1.5) &uarr; higher is better</h3>
+                <table>
+                    <thead><tr><th>Method</th><th>Acc</th><th>F1</th></tr></thead>
+                    <tbody>
+                        <tr><td>Vanilla</td><td>81.3</td><td>79.6</td></tr>
+                        <tr><td>VCD</td><td>84.6</td><td>84.4</td></tr>
+                        <tr><td>OPERA</td><td>84.7</td><td>85.4</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>87.0</strong></td><td><strong>87.4</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="result-block">
+                <h3>MME Hallucination &uarr; higher is better</h3>
+                <table>
+                    <thead><tr><th>Method</th><th>LLaVA-1.5</th><th>InstructBLIP</th><th>Qwen-VL</th></tr></thead>
+                    <tbody>
+                        <tr><td>Vanilla</td><td>565.3</td><td>380.3</td><td>587.3</td></tr>
+                        <tr><td>VCD</td><td>604.6</td><td>447.6</td><td>596.6</td></tr>
+                        <tr><td>OPERA</td><td>592.3</td><td>384.3</td><td>623.3</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>668.3</strong></td><td><strong>461.6</strong></td><td><strong>668.3</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="result-block">
+                <h3>AMBER Score (LLaVA-1.5) &uarr; higher is better</h3>
+                <table>
+                    <thead><tr><th>Method</th><th>Score</th><th>CHAIR&darr;</th><th>Hal.&darr;</th></tr></thead>
+                    <tbody>
+                        <tr><td>Vanilla</td><td>82.0</td><td>9.2</td><td>29.2</td></tr>
+                        <tr><td>VCD</td><td>82.9</td><td>8.1</td><td>28.6</td></tr>
+                        <tr><td>OPERA</td><td>86.5</td><td>8.3</td><td>31.2</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>88.0</strong></td><td><strong>6.4</strong></td><td><strong>25.1</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="results-grid" style="margin-top: 24px;">
+            <div class="result-block" style="grid-column: 1 / -1;">
+                <h3>POPE COCO — All Splits, All LVLMs</h3>
+                <table>
+                    <thead>
+                        <tr><th>LVLM</th><th>Method</th><th>Random Acc</th><th>F1</th><th>Popular Acc</th><th>F1</th><th>Adversarial Acc</th><th>F1</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td rowspan="4">LLaVA-1.5</td><td>Vanilla</td><td>83.2</td><td>81.3</td><td>81.8</td><td>80.0</td><td>78.9</td><td>77.5</td></tr>
+                        <tr><td>VCD</td><td>87.7</td><td>87.1</td><td>85.3</td><td>85.0</td><td>80.8</td><td>81.3</td></tr>
+                        <tr><td>OPERA</td><td>89.1</td><td>89.0</td><td>86.0</td><td>86.3</td><td>79.1</td><td>80.9</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>91.3</strong></td><td><strong>91.1</strong></td><td><strong>87.4</strong></td><td><strong>87.6</strong></td><td><strong>82.5</strong></td><td><strong>83.6</strong></td></tr>
+                        <tr><td rowspan="4">InstructBLIP</td><td>Vanilla</td><td>80.7</td><td>80.4</td><td>78.2</td><td>78.3</td><td>75.8</td><td>76.5</td></tr>
+                        <tr><td>VCD</td><td>84.5</td><td>83.6</td><td>81.4</td><td>81.0</td><td>79.5</td><td>79.5</td></tr>
+                        <tr><td>OPERA</td><td>89.8</td><td>89.6</td><td>83.4</td><td>84.0</td><td>80.7</td><td>81.8</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td>88.2</td><td>87.6</td><td><strong>84.6</strong></td><td><strong>84.3</strong></td><td><strong>82.2</strong></td><td><strong>82.4</strong></td></tr>
+                        <tr><td rowspan="4">Qwen-VL</td><td>Vanilla</td><td>84.7</td><td>82.6</td><td>84.1</td><td>82.0</td><td>82.2</td><td>80.3</td></tr>
+                        <tr><td>VCD</td><td>88.6</td><td>87.8</td><td>87.1</td><td>86.4</td><td>84.2</td><td>83.9</td></tr>
+                        <tr><td>OPERA</td><td>86.1</td><td>84.2</td><td>85.7</td><td>83.8</td><td>83.9</td><td>82.1</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>89.2</strong></td><td><strong>88.6</strong></td><td><strong>87.6</strong></td><td><strong>87.1</strong></td><td><strong>84.3</strong></td><td><strong>84.2</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="results-grid" style="margin-top: 24px;">
+            <div class="result-block">
+                <h3>MME Full (LLaVA-1.5 7B) &uarr;</h3>
+                <table>
+                    <thead><tr><th>Method</th><th>Perception</th><th>Cognition</th><th>Total</th></tr></thead>
+                    <tbody>
+                        <tr><td>Vanilla</td><td>1279.2</td><td>352.9</td><td>1632.1</td></tr>
+                        <tr><td>VCD</td><td>1363.9</td><td>353.2</td><td>1717.1</td></tr>
+                        <tr><td>OPERA</td><td>1413.0</td><td>304.2</td><td>1717.2</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>1473.0</strong></td><td>337.8</td><td><strong>1810.8</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="result-block">
+                <h3>Efficiency (LLaVA-1.5 7B, CHAIR)</h3>
+                <table>
+                    <thead><tr><th>Method</th><th>C<sub>S</sub>&darr;</th><th>Time (s)</th><th>Memory</th></tr></thead>
+                    <tbody>
+                        <tr><td>Vanilla</td><td>48.8</td><td>2.59</td><td>15.69 GB</td></tr>
+                        <tr><td>VCD</td><td>46.8</td><td>4.89</td><td>16.52 GB</td></tr>
+                        <tr><td>OPERA</td><td>44.6</td><td>24.01</td><td>34.88 GB</td></tr>
+                        <tr class="ours"><td>SHIELD</td><td><strong>36.6</strong></td><td>7.34</td><td>18.17 GB</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="highlight-note">
+            <strong>Key takeaway:</strong> SHIELD achieves the best hallucination suppression while maintaining strong general-purpose performance (MME Full: 1810.8). It is also 3.3&times; faster than OPERA with less than half the memory overhead.
+        </div>
+    </div>
+</section>
+
+<!-- Qualitative Examples -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-images"></i></span>Qualitative Examples</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 24px;">
+            Visual comparison of object hallucination. Vanilla LLaVA-1.5 hallucinates non-existent objects (red), while SHIELD correctly identifies only the objects present in the image (green).
+        </p>
+        <div class="teaser-figure">
+            <img src="../figs/teasor.png" alt="Qualitative comparison showing hallucination reduction">
+            <p class="caption">SHIELD traces hallucinations to three encoder-level issues and mitigates each with a dedicated, training-free strategy.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Code -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-code"></i></span>Code</h2>
+        <p style="margin-bottom: 16px;">SHIELD works as a <strong>non-invasive wrapper</strong>. Just three lines to integrate:</p>
+
+        <div class="code-block">
+<pre><span class="keyword">import</span> shield
+<span class="keyword">from</span> llava.model.builder <span class="keyword">import</span> load_pretrained_model
+
+<span class="comment"># Load model as usual</span>
+tokenizer, model, image_processor, _ = <span class="func">load_pretrained_model</span>(
+    <span class="string">"liuhaotian/llava-v1.5-7b"</span>, <span class="keyword">None</span>, <span class="string">"llava-v1.5-7b"</span>
+)
+
+<span class="comment"># One-line SHIELD setup</span>
+shield.<span class="func">wrap</span>(model, tokenizer,
+    caption_file=<span class="string">"experiments/first_cap/llava15_coco_pope_first_caption.jsonl"</span>,
+    cd_alpha=<span class="string">2.0</span>, cd_beta=<span class="string">0.35</span>,
+)
+
+<span class="comment"># Generate with SHIELD</span>
+shield_kw = model.<span class="func">shield_prepare</span>(image, image_tensor, <span class="string">"image.jpg"</span>, use_cd=<span class="keyword">True</span>)
+output_ids = model.<span class="func">generate</span>(input_ids, **shield_kw, do_sample=<span class="keyword">True</span>, max_new_tokens=<span class="string">1024</span>)</pre>
+        </div>
+
+        <p style="margin-top: 16px;">
+            See the <a href="https://github.com/hukcc/SHIELD" style="color: var(--primary); font-weight: 500;">GitHub repository</a> for full installation instructions, data preparation, and evaluation scripts.
+        </p>
+    </div>
+</section>
+
+<!-- BibTeX -->
+<section>
+    <div class="container">
+        <h2><span class="section-icon"><i class="fa-solid fa-quote-left"></i></span>BibTeX</h2>
+        <p style="margin-bottom: 16px;">If you find this work useful, please cite our paper:</p>
+
+        <div class="bibtex-block">
+            <button class="copy-btn" onclick="copyBibtex()"><i class="fa-regular fa-copy"></i> Copy</button>
+<pre id="bibtex-text">@inproceedings{
+huang2026shield,
+title={{SHIELD}: Suppressing Hallucinations In {LVLM} Encoders via Bias and Vulnerability Defense},
+author={Yiyang Huang and Liang Shi and Yitian Zhang and Yi Xu and Yun Fu},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=yk7FFLoNcP}
+}</pre>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>SHIELD &copy; 2026 &middot; <a href="https://github.com/hukcc/SHIELD">GitHub</a> &middot; Released under the <a href="https://github.com/hukcc/SHIELD/blob/main/LICENSE">Apache 2.0 License</a></p>
+    </div>
+</footer>
+
+<script>
+function copyBibtex() {
+    const text = document.getElementById('bibtex-text').textContent;
+    navigator.clipboard.writeText(text).then(() => {
+        const btn = document.querySelector('.copy-btn');
+        btn.innerHTML = '<i class="fa-solid fa-check"></i> Copied!';
+        setTimeout(() => {
+            btn.innerHTML = '<i class="fa-regular fa-copy"></i> Copy';
+        }, 2000);
+    });
+}
+</script>
+
+</body>
+</html>
