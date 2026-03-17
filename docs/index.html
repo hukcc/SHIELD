@@ -446,7 +446,6 @@
             <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
                 <div style="flex: 0 0 55%;"><img src="static/module-st-bias.png" alt="Token Re-weighting module" style="width:100%; border-radius:8px;"></div>
                 <div style="flex: 1;">
-                    <div class="card-icon">&#9878;</div>
                     <h3>Token Re-weighting</h3>
                     <p>Re-weight visual tokens using their similarity with naive caption tokens, redistributing attention to reduce statistical bias toward high-frequency patterns.</p>
                 </div>
@@ -454,7 +453,6 @@
             <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
                 <div style="flex: 0 0 55%;"><img src="static/module-in-bias.png" alt="Token Subtraction module" style="width:100%; border-radius:8px;"></div>
                 <div style="flex: 1;">
-                    <div class="card-icon">&#8854;</div>
                     <h3>Token Subtraction</h3>
                     <p>Estimate dominant-object false representations using K random noise inputs, then subtract them from visual tokens to reduce inherent bias.</p>
                 </div>
@@ -462,7 +460,6 @@
             <div class="method-card" style="display: flex; align-items: center; gap: 24px;">
                 <div style="flex: 0 0 55%;"><img src="static/module-vulnerability.png" alt="Contrastive Decoding module" style="width:100%; border-radius:8px;"></div>
                 <div style="flex: 1;">
-                    <div class="card-icon">&#9760;</div>
                     <h3>Contrastive Decoding</h3>
                     <p>Apply adversarial perturbation to expose hallucination-prone objects, then contrast natural vs. perturbed outputs to suppress vulnerable predictions.</p>
                 </div>
@@ -535,7 +532,8 @@
                 <h3>POPE COCO — All Splits, All LVLMs</h3>
                 <table>
                     <thead>
-                        <tr><th>LVLM</th><th>Method</th><th>Random Acc</th><th>F1</th><th>Popular Acc</th><th>F1</th><th>Adversarial Acc</th><th>F1</th></tr>
+                        <tr><th rowspan="2">LVLM</th><th rowspan="2">Method</th><th colspan="2">Random</th><th colspan="2">Popular</th><th colspan="2">Adversarial</th></tr>
+                        <tr><th>Acc</th><th>F1</th><th>Acc</th><th>F1</th><th>Acc</th><th>F1</th></tr>
                     </thead>
                     <tbody>
                         <tr><td rowspan="4">LLaVA-1.5</td><td>Vanilla</td><td>83.2</td><td>81.3</td><td>81.8</td><td>80.0</td><td>78.9</td><td>77.5</td></tr>

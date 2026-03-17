@@ -33,7 +33,7 @@ SHIELD consistently outperforms existing methods across **3 LVLM families** and 
 
 **CHAIR** (↓ lower is better)
 
-| Method | LLaVA-1.5 C_S | C_I |
+| Method | C_S | C_I |
 |:---|:---:|:---:|
 | Vanilla | 48.8 | 14.2 |
 | VCD | 46.8 | 13.2 |
@@ -45,7 +45,7 @@ SHIELD consistently outperforms existing methods across **3 LVLM families** and 
 
 **POPE Avg** (↑ higher is better)
 
-| Method | LLaVA-1.5 Acc | F1 |
+| Method | Acc | F1 |
 |:---|:---:|:---:|
 | Vanilla | 81.3 | 79.6 |
 | VCD | 84.6 | 84.4 |
@@ -245,7 +245,7 @@ bash experiments/scripts/llava1.5_MME_hal.bash
 <details>
 <summary><b>POPE COCO (all splits, 3 LVLMs)</b></summary>
 
-| LVLM | Method | Random Acc | F1 | Popular Acc | F1 | Adversarial Acc | F1 |
+| LVLM | Method | Rand. Acc | Rand. F1 | Pop. Acc | Pop. F1 | Adv. Acc | Adv. F1 |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | LLaVA-1.5 | Vanilla | 83.2 | 81.3 | 81.8 | 80.0 | 78.9 | 77.5 |
 | | VCD | 87.7 | 87.1 | 85.3 | 85.0 | 80.8 | 81.3 |
@@ -265,7 +265,7 @@ bash experiments/scripts/llava1.5_MME_hal.bash
 <details>
 <summary><b>CHAIR (3 LVLMs)</b></summary>
 
-| Method | LLaVA-1.5 C_S↓ | C_I↓ | InstructBLIP C_S↓ | C_I↓ | Qwen-VL C_S↓ | C_I↓ |
+| Method | LLaVA C_S↓ | LLaVA C_I↓ | IBLIP C_S↓ | IBLIP C_I↓ | Qwen C_S↓ | Qwen C_I↓ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Vanilla | 48.8 | 14.2 | 54.6 | 24.8 | 49.2 | 13.1 |
 | VCD | 46.8 | 13.2 | 44.0 | 13.6 | 46.4 | 11.9 |
@@ -297,7 +297,7 @@ bash experiments/scripts/llava1.5_MME_hal.bash
 <details>
 <summary><b>GPT-4o Aided Evaluation</b></summary>
 
-| Method | LLaVA-1.5 C↑ | D↑ | InstructBLIP C↑ | D↑ | Qwen-VL C↑ | D↑ |
+| Method | LLaVA C↑ | LLaVA D↑ | IBLIP C↑ | IBLIP D↑ | Qwen C↑ | Qwen D↑ |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Vanilla | 4.9 | 5.0 | 4.2 | 4.2 | 6.2 | 4.6 |
 | VCD | 5.5 | 5.5 | 5.1 | 5.5 | 6.5 | 5.7 |
